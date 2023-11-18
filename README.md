@@ -1,0 +1,1 @@
+Статьи для курса [Дорогу осилит идущий](https://t.me/ViamSupervadetVadens)
