@@ -55,8 +55,6 @@
 
 и в видео:
 
-<iframe width="690" height="388" src="https://www.youtube.com/embed/S1GVLezqYoE" title="Урок по Java 6: Типы данных." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [<img src="https://img.youtube.com/vi/S1GVLezqYoE/hqdefault.jpg" width="690" height="388"
 />](https://www.youtube.com/embed/S1GVLezqYoE)
 
