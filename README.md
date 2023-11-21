@@ -3,7 +3,7 @@
 # Оглавление
 
 ## Настройка окружения
-[0. Базовая структура программы, переменные, типы данных и все-все-все](lessons%2Fjava%20core%2F1%2FBasic%20program%20structure%2C%20variables%20and%20data%20types.md)
+[0. Базовая структура программы, переменные, типы данных и все-все-все](lessons%2Fjava-core%2F1%2FBasic%20program%20structure%2C%20variables%20and%20data%20types.md)
 
 
 ## Внешние библиотеки и знакомство с системами сборок
