@@ -79,7 +79,9 @@
 
 На этом теоретическая часть статьи подходит к концу...
 
-![](/file/end_of_the_lesson.png)
+<p align="center">
+    <img src="/file/end_of_the_lesson.png">
+</p>
 
 И немного практики:
 
