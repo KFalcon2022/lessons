@@ -15,7 +15,7 @@
 
 ## Настройка окружения
 
-0. [Настройка окружения](https://telegra.ph/Nastrojka-okruzheniya-11-09-2)
+0. [Настройка окружения](https://github.com/KFalcon2022/lessons/blob/master/lessons/environment/0/Set%20up%20environment.md)
 
 ## Java Core
 
