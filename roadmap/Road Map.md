@@ -291,9 +291,9 @@ SOLID и другие принципы ОО-дизайна
 
 Дополнительно (видео): 
 
-- [Введение в тестирование. Часть I](https://youtube.com/live/_rjoW1Njs8w)
+- [Введение в тестирование. Часть I](https://youtu.be/_rjoW1Njs8w)
 
-- [Введение в тестирование. Часть II](https://youtube.com/live/5gBvlyi4f_E)
+- [Введение в тестирование. Часть II](https://youtu.be/5gBvlyi4f_E)
 
 ## Системы контроля версий и git. GitHub
 
