@@ -285,7 +285,7 @@ SOLID и другие принципы ОО-дизайна
 
 ## Unit-тестирование
 
-- Концепция юнит-тестирования
+**124.** [Концепция юнит-тестирования](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/124/Unit-testing%20concept.md)
 - _Junit_
 - Mock’и. _Mockito_
 
