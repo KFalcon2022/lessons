@@ -169,10 +169,10 @@ dependencies {
 
 ![img.png](../../../commonmedia/justTheoryFooter.png)
 
-Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
-
-Канал: https://t.me/ViamSupervadetVadens
-
-Мой тг: https://t.me/ironicMotherfucker
-
-**Дорогу осилит идущий!**
+> Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
+> 
+> Канал: https://t.me/ViamSupervadetVadens
+> 
+> Мой тг: https://t.me/ironicMotherfucker
+> 
+> **Дорогу осилит идущий!**

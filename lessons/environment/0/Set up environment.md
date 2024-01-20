@@ -95,8 +95,10 @@ IDE дает при запуске, постепенно изучать комб
 
 ![img.png](../../../commonmedia/justTheoryFooter.png)
 
-Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
-
-Канал: https://t.me/ViamSupervadetVadens
-
-Мой тг: https://t.me/ironicMotherfucker
+> Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
+> 
+> Канал: https://t.me/ViamSupervadetVadens
+> 
+> Мой тг: https://t.me/ironicMotherfucker
+>
+> **Дорогу осилит идущий!**
