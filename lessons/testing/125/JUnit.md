@@ -655,7 +655,7 @@ JUnit - точно не самый сложный фреймворк в Java. И
 [задачи 2 урока 30](https://github.com/KFalcon2022/practical-tasks/blob/master/src/com/walking/lesson30_regex/task2/Main.java)
 произведите декомпозицию решения с учетом объектной модели и покройте получившееся решение юнит-тестами.
 
-Ссылка на репозиторий: `https://github.com/KFalcon2022/unit-testing-practical-task`. Ветка для PR: `for-pr`.
+Ссылка на репозиторий: [GitHub](https://github.com/KFalcon2022/unit-testing-practical-task). Ветка для PR: `for-pr`.
 
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 > 
