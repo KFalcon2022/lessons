@@ -289,7 +289,9 @@ SOLID и другие принципы ОО-дизайна
 
 **125.** [_JUnit_](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/125/JUnit.md)
 
-- Mock’и. _Mockito_
+**126.** [Mock’и. _Mockito_](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/126/Mock%20object.%20Mockito.md)
+
+- Mockito. Дополнительный функции
 
 Дополнительно (видео): 
 
