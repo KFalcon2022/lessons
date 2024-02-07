@@ -299,13 +299,19 @@ SOLID и другие принципы ОО-дизайна
 
 - [Введение в тестирование. Часть II](https://youtu.be/5gBvlyi4f_E)
 
-## Системы контроля версий и git. GitHub
+## JDBC
 
-**9.** [Системы контроля версий. Git. Github](https://telegra.ph/Sistemy-kontrolya-versij-Git-Github-11-18)
+**128.** [Что такое JDBC. Подключение к БД. _Connection_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/128/JDBC%20introduction.%20Connection.md)
 
-**15.** [GitHub. Fork и Pull Request](https://telegra.ph/GitHub-Fork-i-Pull-Request-11-25)
+- _Statement_ и DDL-операции
+- Понятие Batch. Использование в JDBC
+- _Statement_ и DML. _ResultSet_
+- _PreparedStatement_. Параметры. Понятие SQL-инъекции(?)
+- JDBC и транзакции
 
-- Основные инструменты
+## Инструменты миграций
+
+Знакомство с Flyway. Аналоги
 
 ## Web и Java EE
 
@@ -324,18 +330,13 @@ SOLID и другие принципы ОО-дизайна
 - Знакомство с JSP и JSTL
 - Знакомство с авторизацией и аутентификацией
 
-## JDBC
+## Системы контроля версий и git. GitHub
 
-- Что такое JDBC. Подключение к БД. _Connection_
-- _Statement_ и DDL-операции
-- Понятие Batch. Использование в JDBC
-- _Statement_ и DML. _ResultSet_
-- _PreparedStatement_. Параметры. Понятие SQL-инъекции(?)
-- JDBC и транзакции
+**9.** [Системы контроля версий. Git. Github](https://telegra.ph/Sistemy-kontrolya-versij-Git-Github-11-18)
 
-## Инструменты миграций
+**15.** [GitHub. Fork и Pull Request](https://telegra.ph/GitHub-Fork-i-Pull-Request-11-25)
 
-Знакомство с Flyway. Аналоги
+- Основные инструменты
 
 ## JPA и Hibernate
 
