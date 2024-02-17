@@ -303,7 +303,8 @@ SOLID и другие принципы ОО-дизайна
 
 **128.** [Что такое JDBC. Подключение к БД. _Connection_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/128/JDBC%20introduction.%20Connection.md)
 
-- _Statement_ и DDL-операции
+**129.**  [_Statement_. DDL-операции. Знакомство с _ResultSet_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/129/Statement.%20DDL.%20ResultSet.md)
+
 - Понятие Batch. Использование в JDBC
 - _Statement_ и DML. _ResultSet_
 - _PreparedStatement_. Параметры. Понятие SQL-инъекции(?)
