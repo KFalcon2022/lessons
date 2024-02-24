@@ -305,9 +305,9 @@ SOLID и другие принципы ОО-дизайна
 
 **129.**  [_Statement_. DDL-операции. Знакомство с _ResultSet_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/129/Statement.%20DDL.%20ResultSet.md)
 
+**130.** [_PreparedStatement_. Понятие SQL-инъекции](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/130/PreparedStatement.%20SQL%20injection.md)
+
 - Понятие Batch. Использование в JDBC
-- _Statement_ и DML. _ResultSet_
-- _PreparedStatement_. Параметры. Понятие SQL-инъекции(?)
 - JDBC и транзакции
 
 ## Инструменты миграций
