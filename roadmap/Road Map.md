@@ -307,7 +307,8 @@ SOLID и другие принципы ОО-дизайна
 
 **130.** [_PreparedStatement_. Понятие SQL-инъекции](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/130/PreparedStatement.%20SQL%20injection.md)
 
-- Понятие Batch. Использование в JDBC
+**131.**  [Понятие Batch. Использование в JDBC](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/131/Batch.md)
+
 - JDBC и транзакции
 
 ## Инструменты миграций
