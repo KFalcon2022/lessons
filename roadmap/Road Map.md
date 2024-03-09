@@ -15,7 +15,7 @@
 
 ## Настройка окружения
 
-0. [Настройка окружения](https://github.com/KFalcon2022/lessons/blob/master/lessons/environment/0/Set%20up%20environment.md)
+**0.** [Настройка окружения](https://github.com/KFalcon2022/lessons/blob/master/lessons/environment/0/Set%20up%20environment.md)
 
 ## Java Core
 
@@ -309,11 +309,12 @@ SOLID и другие принципы ОО-дизайна
 
 **131.**  [Понятие Batch. Использование в JDBC](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/131/Batch.md)
 
-- JDBC и транзакции
+**132.**  [JDBC и транзакции](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/132/JDBC.%20Tranastions.md)
 
-## Инструменты миграций
+## Библиотеки для работы с БД
 
-Знакомство с Flyway. Аналоги
+- Connection Pool. HikariCP
+- Инструменты миграций. Flyway. Аналоги
 
 ## Web и Java EE
 
