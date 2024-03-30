@@ -313,7 +313,8 @@ SOLID и другие принципы ОО-дизайна
 
 ## Библиотеки для работы с БД
 
-- Connection Pool. HikariCP
+**133.**  [Connection Pool. HikariCP](https://github.com/KFalcon2022/lessons/blob/master/lessons/db-libraries/133/Connection%20Pool.%20HikariCP.md)
+
 - Инструменты миграций. Flyway. Аналоги
 
 ## Web и Java EE
