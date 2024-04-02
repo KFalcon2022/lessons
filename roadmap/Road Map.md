@@ -19,9 +19,9 @@
 
 ## Java Core
 
-**1.** [Базовая структура программы, переменные и типы данных](https://telegra.ph/Bazovaya-struktura-programmy-peremennye-tipy-dannyh-i-vse-vse-vse-11-10)
+**1.** [Базовая структура программы, переменные и типы данных](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/1/Basic%20program%20structure%2C%20variables%2C%20data%20types%2C%20etc.md)
 
-**2.** [Консольный ввод/вывод. Арифметические операции, операции присвоения. Условные выражения](https://telegra.ph/Konsolnyj-vvodvyvod-Arifmeticheskie-operacii-operacii-prisvoeniya-Uslovnye-vyrazheniya-11-11)
+**2.** [Консольный ввод/вывод. Арифметические операции, операции присвоения. Условные выражения](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/2/Console%20input-output.%20Basic%20operations.%20Conditional%20Expressions.md)
 
 **3.** [Преобразование типов, условные конструкции. Первое знакомство со строками](https://telegra.ph/Preobrazovanie-tipov-uslovnye-konstrukcii-i-nemnogo-o-strokah-11-11)
 
