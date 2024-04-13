@@ -303,19 +303,19 @@ SOLID и другие принципы ОО-дизайна
 
 **128.** [Что такое JDBC. Подключение к БД. _Connection_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/128/JDBC%20introduction.%20Connection.md)
 
-**129.**  [_Statement_. DDL-операции. Знакомство с _ResultSet_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/129/Statement.%20DDL.%20ResultSet.md)
+**129.** [_Statement_. DDL-операции. Знакомство с _ResultSet_](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/129/Statement.%20DDL.%20ResultSet.md)
 
 **130.** [_PreparedStatement_. Понятие SQL-инъекции](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/130/PreparedStatement.%20SQL%20injection.md)
 
-**131.**  [Понятие Batch. Использование в JDBC](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/131/Batch.md)
+**131.** [Понятие Batch. Использование в JDBC](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/131/Batch.md)
 
-**132.**  [JDBC и транзакции](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/132/JDBC.%20Tranastions.md)
+**132.** [JDBC и транзакции](https://github.com/KFalcon2022/lessons/blob/master/lessons/jdbc/132/JDBC.%20Tranastions.md)
 
 ## Библиотеки для работы с БД
 
-**133.**  [Connection Pool. HikariCP](https://github.com/KFalcon2022/lessons/blob/master/lessons/db-libraries/133/Connection%20Pool.%20HikariCP.md)
+**133.** [Connection Pool. HikariCP](https://github.com/KFalcon2022/lessons/blob/master/lessons/db-libraries/133/Connection%20Pool.%20HikariCP.md)
 
-- Инструменты миграций. Flyway. Аналоги
+**134.** [Инструменты миграций. Flyway. Аналоги](https://github.com/KFalcon2022/lessons/blob/master/lessons/db-libraries/134/Migration%20Tools.%20Flyway%20and%20others.md)
 
 ## Web и Java EE
 
