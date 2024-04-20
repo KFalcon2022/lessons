@@ -319,7 +319,8 @@ SOLID и другие принципы ОО-дизайна
 
 ## Web и Java EE
 
-- Что такое Java EE
+**135.** [Web и Java EE. Введение](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/135/Web.%20Java%20EE.%20Intruduction.md)
+
 - HTTP. Понятия Stateful и Stateless. Запрос и ответ
 - HTTP. Методы HTTP
 - HTTP. Cookies и понятие сессии
