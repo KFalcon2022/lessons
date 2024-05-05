@@ -324,7 +324,8 @@ SOLID и другие принципы ОО-дизайна
 
 **136.**  [HTTP. Понятия Stateful и Stateless. Запрос и ответ](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/136/HTTP.%20Stateful%20and%20Stateless.%20Request%20and%20Response.md)
 
-- HTTP. Методы HTTP
+**137.** [HTTP. Методы HTTP](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/137/HTTP%20methods.md)
+
 - HTTP. Cookies и понятие сессии
 - Application Server и Web Server
 - Tomcat. Установка. Альтернативы
