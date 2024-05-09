@@ -19,9 +19,9 @@
 
 ## Java Core
 
-**1.** [Базовая структура программы, переменные и типы данных](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/1/Basic%20program%20structure%2C%20variables%2C%20data%20types%2C%20etc.md)
+**1.** [Базовая структура программы, переменные и типы данных](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/001/Basic%20program%20structure%2C%20variables%2C%20data%20types%2C%20etc.md)
 
-**2.** [Консольный ввод/вывод. Арифметические операции, операции присвоения. Условные выражения](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/2/Console%20input-output.%20Basic%20operations.%20Conditional%20Expressions.md)
+**2.** [Консольный ввод/вывод. Арифметические операции, операции присвоения. Условные выражения](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/002/Console%20input-output.%20Basic%20operations.%20Conditional%20Expressions.md)
 
 **3.** [Преобразование типов, условные конструкции. Первое знакомство со строками](https://telegra.ph/Preobrazovanie-tipov-uslovnye-konstrukcii-i-nemnogo-o-strokah-11-11)
 
@@ -45,15 +45,15 @@
 
 **16.** [Абстрактные классы и интерфейсы](https://telegra.ph/Abstraktnye-klassy-i-interfejsy-11-28)
 
-**17.** [_Enum_](https://telegra.ph/Enumy-11-29)
+**17.** [_Enum_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/017/Enum.md)
 
 **18.** [Проверки типов в Java](https://telegra.ph/Proverki-tipov-v-Java-11-30)
 
-**19.** [Методы класса _Object_](https://telegra.ph/Metody-klassa-Object-12-01)
+**19.** [Методы класса _Object_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/019/Object%20methods.md)
 
 **20.** [Исключения](https://telegra.ph/Isklyucheniya-12-01)
 
-**21.** [Неизменяемые объекты](https://telegra.ph/Neizmenyaemye-obekty-12-02)
+**21.** [Неизменяемые объекты](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/021/Immutable%20objects.md)
 
 **22.** [Классы-обертки в Java](https://telegra.ph/Klassy-obertki-v-Java-12-05)
 
@@ -83,7 +83,7 @@
 
 ## Объектно-ориентированное программирование
 
-**11.** [ООП. Первое знакомство. Понятие абстракции. Виды отношений между объектами](https://telegra.ph/OOP-Pervoe-znakomstvo-Ponyatie-abstrakcii-Vidy-otnoshenij-mezhdu-obektami-11-20)
+**11.** [ООП. Первое знакомство. Понятие абстракции. Виды отношений между объектами](https://github.com/KFalcon2022/lessons/blob/master/lessons/oop/011/OOP.%20Introduction.md)
 
 **12.** [Принципы ООП. Инкапсуляция](https://telegra.ph/Inkapsulyaciya-Pakety-Modifikatory-dostupa-Gettery-i-Settery-11-22)
 
@@ -340,7 +340,7 @@ SOLID и другие принципы ОО-дизайна
 
 ## Системы контроля версий и git. GitHub
 
-**9.** [Системы контроля версий. Git. Github](https://telegra.ph/Sistemy-kontrolya-versij-Git-Github-11-18)
+**9.** [Системы контроля версий. Git. Github](https://github.com/KFalcon2022/lessons/blob/master/lessons/vcs/009/VCS.%20Git.%20GitHub.md)
 
 **15.** [GitHub. Fork и Pull Request](https://telegra.ph/GitHub-Fork-i-Pull-Request-11-25)
 
