@@ -96,7 +96,7 @@
 При нажатии на вкладку _Commit_ возле цифры 1 мы увидим примерно следующее:
 
 <figure>
-    <img src="./picture2.png" alt="picture2.png" width="270"/>
+    <img src="./picture2.png" alt="picture2.png" width="190"/>
     <figcaption>Рисунок 2</figcaption>
 </figure>
 
