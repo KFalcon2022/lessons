@@ -352,7 +352,7 @@ SOLID и другие принципы ОО-дизайна
 - Подключение Hibernate к проекту. Конфигурация
 - _Entity_
 - _EntityManager_ и _EntityManagerFactory_. Аналоги в Hibernate
-- Запросы в Hibernate. HQL
+- Запросы в Hibernate. JPQL и HQL
 - Criteria API
 - Жизненный цикл Entity
 - Работа с транзакциями. Понятие Propagation
@@ -360,8 +360,68 @@ SOLID и другие принципы ОО-дизайна
 - Кэширование в Hibernate. Кэш первого уровня или Persistence Context
 - Кэширование в Hibernate. Кэш второго уровня. Кэш запросов
 - Стратегии наследования в Hibernate
+- EntityGraph
 
 ## Spring Framework
+
+- Spring. Введение, основные задачи и возможности
+- IoC. Виды, реализации в Spring. Знакомство с ApplicationContext
+- Spring bean. Жизненный цикл
+- Области видимости бинов
+- Способы конфигурации. XML, Java, annotation, Groovy
+- Основные аннотации
+- Особенности использования Java-конфигурации
+- Dependency Injection на практике
+- @Lazy. Проблема циклических зависимостей
+
+### Spring AOP
+
+- Введение в АОП. Spring AOP
+- Прокси в Spring
+
+### Spring MVC
+
+- Паттерн MVC. Реализация в Spring MVC
+- Конфигурация Spring MVC
+- Основные аннотации и практика использования
+- Знакомство с DispatcherServlet
+- Формирование ответа. ResponseEntity
+- Сериализация и десериализация в Spring MVC
+- Обработка ошибок
+- Валидация запросов. javax.validation в Spring MVC
+- Взаимодействие с заголовками запроса/ответа
+- Что дальше?
+
+### Spring JDBC
+
+- Отправка запросов. JdbcTemplate и NamedParameterJdbcTemplate
+- Маппинг данных
+- Работа с транзакциями. TransactionTemplate и TransactionManager.
+
+### Spring Data JPA
+
+- Введение. Конфигурация Spring Data JPA
+- Репозитории в Spring Data. Первое знакомство
+- Репозитории в Spring Data. Иерархия
+- Репозитории в Spring Data. Возможности кастомизации
+- JPA Entity и Spring Data
+- Декларативная работа с транзакциями. @Transactional
+- Что дальше?
+
+### Spring Boot
+
+- Что такое Spring Boot?
+- Работа со стартерами
+- Автоконфигурация в Spring Boot
+- Автоконфигурация. @ConfigurationProperties
+- Автоконфигурация. Аннотации @ConditionalOn*
+- Сборка и запуск Spring Boot приложения
+
+### Spring Security
+
+_Будет дополнено_
+
+### Тестирование Spring приложений
 
 _Будет дополнено_
 
