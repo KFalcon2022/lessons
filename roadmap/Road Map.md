@@ -328,9 +328,10 @@ SOLID и другие принципы ОО-дизайна
 
 **138.** [HTTP. Cookies и понятие сессии](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/138/Cookies.%20Session.md)
 
-**139.**  [HTTP-клиенты. Практика отправки запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/139/HTTP%20clients.md)
+**139.** [HTTP-клиенты. Практика отправки запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/139/HTTP%20clients.md)
 
-- Application Server и Web Server
+**140.** [Серверы. Виды серверов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/140/Servers.md)
+
 - Tomcat. Установка. Альтернативы
 - Servlet API. Знакомство с сервлетами
 - Servlet API. Контейнер сервлетов. Развертывание приложения
