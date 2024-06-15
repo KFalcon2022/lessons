@@ -23,31 +23,31 @@
 
 **2.** [Консольный ввод/вывод. Арифметические операции, операции присвоения. Условные выражения](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/002/Console%20input-output.%20Basic%20operations.%20Conditional%20Expressions.md)
 
-**3.** [Преобразование типов, условные конструкции. Первое знакомство со строками](https://telegra.ph/Preobrazovanie-tipov-uslovnye-konstrukcii-i-nemnogo-o-strokah-11-11)
+**3.** [Преобразование типов, условные конструкции. Первое знакомство со строками](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/003/Type%20casting.%20Conditional%20operators%20and%20little%20bit%20about%20Strings.md)
 
-**4.** [Циклы](https://telegra.ph/Cikly-11-13)
+**4.** [Циклы](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/004/Cycles.md)
 
-**5.** [Массивы](https://telegra.ph/Massivy-I-snova-cikly-11-13)
+**5.** [Массивы](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/005/Arrays.md)
 
-**6.** [Методы. Первое знакомство. Параметры. Возвращение значений](https://telegra.ph/Metody-Pervoe-znakomstvo-Parametry-Vozvrashchenie-znachenij-11-14)
+**6.** [Методы. Первое знакомство. Параметры. Возвращение значений](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/006/Methods.%20Parameters.%20Return%20values.md)
 
-**7.** [Методы. _Varargs_. Перегрузка методов. Первое знакомство с рекурсией](https://telegra.ph/Metody-Varargs-Peregruzka-metodov-Pervoe-znakomstvo-s-rekursiej-11-15)
+**7.** [Методы. _Varargs_. Перегрузка методов. Первое знакомство с рекурсией](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/007/Methods.%20VarArgs.%20Overloading%20method.%20Recursion.md)
 
-**8.** [Классы. Объекты. Конструкторы и ключевое слово _this_](https://telegra.ph/Klassy-Obekty-Konstruktory-no-ne-Lego-i-klyuchevoe-slovo-this-11-17)
+**8.** [Классы. Объекты. Конструкторы и ключевое слово _this_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/008/Classes.%20Objects.%20Constructors%20and%20keyword%20this.md)
 
-**10.** [Поля класса. Ключевое слово _static_. Константы](https://telegra.ph/Polya-klassa-Klyuchevoe-slovo-static-Konstanty-11-20)
+**10.** [Поля класса. Ключевое слово _static_. Константы](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/010/Fields.%20Keyword%20static.%20Constants.md)
 
-**12.** [Инкапсуляция. Пакеты. Модификаторы доступа. Getter'ы и Setter'ы](https://telegra.ph/Inkapsulyaciya-Pakety-Modifikatory-dostupa-Gettery-i-Settery-11-22)
+**12.** [Инкапсуляция. Пакеты. Модификаторы доступа. Getter'ы и Setter'ы](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/012/Encapsulation.%20Packages.%20Access%20modifiers.%20Getters%20and%20setters.md)
 
-**13.** [Наследование. Ключевое слово _extends_ и использование _protected_. Ключевое слово _super_. Приведение ссылочных типов](https://telegra.ph/Nasledovanie-Klyuchevoe-slovo-extends-i-ispolzovanie-protected-Klyuchevoe-slovo-super-Privedenie-ssylochnyh-tipov-11-23)
+**13.** [Наследование. Ключевое слово _extends_ и использование _protected_. Ключевое слово _super_. Приведение ссылочных типов](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/013/Inheritance.%20Keywords%20extends%20and%20super.%20Access%20modifier%20protected.md)
 
-**14.** [Полиморфизм. Переопределение методов. Виды полиморфизма и связывание](https://telegra.ph/Polimorfizm-Pereopredelenie-metodov-Vidy-polimorfizma-i-svyazyvanie-11-25)
+**14.** [Полиморфизм. Переопределение методов. Виды полиморфизма и связывание](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/014/Polymorphism.%20Overriding%20method.%20Types%20of%20polymorphism.md)
 
-**16.** [Абстрактные классы и интерфейсы](https://telegra.ph/Abstraktnye-klassy-i-interfejsy-11-28)
+**16.** [Абстрактные классы и интерфейсы](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/016/Abstract%20classes%20and%20interfaces.md)
 
 **17.** [_Enum_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/017/Enum.md)
 
-**18.** [Проверки типов в Java](https://telegra.ph/Proverki-tipov-v-Java-11-30)
+**18.** [Проверки типов в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/018/Check%20types.md)
 
 **19.** [Методы класса _Object_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/019/Object%20methods.md)
 
@@ -451,7 +451,7 @@ _Будет дополнено_
 
 ## Pet Projects
 
-[Система распределения места в общежитиях](https://telegra.ph/Sistema-raspredeleniya-mesta-v-obshchezhitiyah-03-11)
+[Система распределения места в общежитиях](https://github.com/KFalcon2022/lessons/blob/master/lessons/pet-projects/Pet%20project.md)
 
 Любые замечания и предложения приветствуются. Более, чем вероятно, что план, описанный одним человеком, не будет
 идеальным и требует корректировки. Кроме того, вполне возможно, что были опущены темы, очевидные практикующему

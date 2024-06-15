@@ -24,7 +24,7 @@
 - Стоит ли делать класс абстрактным — зависит от конкретной ситуации. Одни и те же сущности могут быть по-разному
   представлены в разных информационных системах, это зависит лишь от того, как спроектирована система. Если вспомним
   задачу 2 из темы
-  [наследование](https://telegra.ph/Nasledovanie-Klyuchevoe-slovo-extends-i-ispolzovanie-protected-Klyuchevoe-slovo-super-Privedenie-ssylochnyh-tipov-11-23),
+  [наследование](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/013/Inheritance.%20Keywords%20extends%20and%20super.%20Access%20modifier%20protected.md),
   кажется логичным сделать `Animal` абстрактным классом. Однако в задаче 1 из того же урока такой необходимости нет;
 - Абстрактные классы редко применяются к классам-сущностям. Еще реже в таких случаях используются абстрактные методы.
 
@@ -121,8 +121,8 @@
 ## Задача 3:
 
 Реализуйте любую задачу из уроков о 
-[наследовании](https://telegra.ph/Nasledovanie-Klyuchevoe-slovo-extends-i-ispolzovanie-protected-Klyuchevoe-slovo-super-Privedenie-ssylochnyh-tipov-11-23) 
-или [полиморфизме](https://telegra.ph/Polimorfizm-Pereopredelenie-metodov-Vidy-polimorfizma-i-svyazyvanie-11-25) 
+[наследовании](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/013/Inheritance.%20Keywords%20extends%20and%20super.%20Access%20modifier%20protected.md) 
+или [полиморфизме](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/014/Polymorphism.%20Overriding%20method.%20Types%20of%20polymorphism.md) 
 с использованием новых знаний. Выбирайте инструмент с умом.
 
 **Разбор практики для этого урока**:

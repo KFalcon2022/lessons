@@ -140,7 +140,7 @@
 ## Задача 2:
 
 Используя новые знания, упростите реализацию задачи 2 из 
-[предыдущего урока](https://telegra.ph/Nasledovanie-Klyuchevoe-slovo-extends-i-ispolzovanie-protected-Klyuchevoe-slovo-super-Privedenie-ssylochnyh-tipov-11-23). 
+[предыдущего урока](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/013/Inheritance.%20Keywords%20extends%20and%20super.%20Access%20modifier%20protected.md). 
 Допустимо использовать метод `sound()`, вместо `woof()`, `meow()` и `moo()`. 
 Метод `sound()` допустимо сделать публичным.
 

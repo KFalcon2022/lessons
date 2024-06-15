@@ -238,7 +238,7 @@ _Вы великолепны!_
 ## Задача 2:
 
 Опубликуйте на гитхабе задачу из урока
-[Классы и Объекты](https://telegra.ph/Klassy-Obekty-Konstruktory-no-ne-Lego-i-klyuchevoe-slovo-this-11-17).
+[Классы и Объекты](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/008/Classes.%20Objects.%20Constructors%20and%20keyword%20this.md).
 
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
