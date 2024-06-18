@@ -436,9 +436,9 @@ _Будет дополнено_
 
 **35.** [Компиляция и интерпретация в Java](https://telegra.ph/Kompilyaciya-i-interpretaciya-v-Java-12-20)
 
-**69.** [Состав команды на проекте. Часть I](https://telegra.ph/Sostav-komandy-na-proekte-CHast-I-04-22)
+**69.** [Состав команды на проекте. Часть I](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/069/Team%20structure%20in%20project.%20Part%201.md)
 
-**70.** [Состав команды на проекте. Часть II. Менеджеры и не только](https://telegra.ph/CHast-II-Menedzhery-i-ne-tolko-04-22)
+**70.** [Состав команды на проекте. Часть II. Менеджеры и не только](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/070/Team%20structure%20in%20project.%20Part%202.md)
 
 - Паттерны проектирования
 - Docker
