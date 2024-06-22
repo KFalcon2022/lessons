@@ -334,14 +334,15 @@ SOLID и другие принципы ОО-дизайна
 
 **141.** [Tomcat. Установка. Альтернативы](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/141/Tomcat.%20Installation%20and%20alternatives.md)
 
-- Servlet API. Знакомство с сервлетами
-- Servlet API. Контейнер сервлетов. Развертывание приложения
-- Servlet API. Параметры и атрибуты
-- Servlet API. Жизненный цикл сервлета
-- Что такое _web.xml_
-- Servlet API. Фильтры и цепочка фильтров
+**142.** [Servlet API. Знакомство с сервлетами](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/142/Servlet%20API.%20Introduction.md)
+
+- Servlet API. Принципы работы сервлетов. Жизненный цикл. Поиск main()
+- Servlet API. ServletConfig. ServletContext. Знакомство с web.xml
+- Servlet API. Фильтры и цепочка фильтров. Управление состоянием ответа
+- Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
 - Знакомство с JSP и JSTL
-- Знакомство с авторизацией и аутентификацией
+- Виды аутентификации
+- (Дополнительно) Асинхронная обработка сервлетов
 
 ## Системы контроля версий и git. GitHub
 
