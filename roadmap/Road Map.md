@@ -336,7 +336,8 @@ SOLID и другие принципы ОО-дизайна
 
 **142.** [Servlet API. Знакомство с сервлетами](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/142/Servlet%20API.%20Introduction.md)
 
-- Servlet API. Принципы работы сервлетов. Жизненный цикл. Поиск main()
+**143.** [Servlet API. Структура и жизненный цикл сервлетного приложения. Поиск main()](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/143/Servlet%20API.%20Servlet%20app%20lifecycle.md)
+
 - Servlet API. ServletConfig. ServletContext. Знакомство с web.xml
 - Servlet API. Фильтры и цепочка фильтров. Управление состоянием ответа
 - Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
