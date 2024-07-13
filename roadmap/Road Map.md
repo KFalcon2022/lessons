@@ -442,6 +442,8 @@ _Будет дополнено_
 
 **70.** [Состав команды на проекте. Часть II. Менеджеры и не только](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/070/Team%20structure%20in%20project.%20Part%202.md)
 
+**144.** [JSON](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/144/JSON.md)
+
 - Паттерны проектирования
 - Docker
 - Lombok
