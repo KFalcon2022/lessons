@@ -282,6 +282,8 @@ SOLID и другие принципы ОО-дизайна
 
 **123.** [Gradle. Знакомство с Gradle Wrapper. Что дальше?](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/123/Gradle%20Wrapper.%20What's%20next.md)
 
+**145.** [FasterXML Jackson. Сериализация и десериализация JSON в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/145/FasterXML%20Jackson.md)
+
 Дополнительно (видео): [Знакомство с системами сборки. Maven](https://t.me/ViamSupervadetVadens/174)
 
 ## Unit-тестирование
