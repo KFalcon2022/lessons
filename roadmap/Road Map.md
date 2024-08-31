@@ -342,7 +342,8 @@ SOLID и другие принципы ОО-дизайна
 
 **146.** [Servlet API. Знакомство с web.xml](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/146/Servlet%20API.%20web.xml.md)
 
-- Servlet API. ServletConfig. ServletContext. Слушатели событий
+**147.** [Servlet API. ServletConfig. ServletContext. Слушатели событий](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/147/Servlet%20API.%20ServletConfig.%20ServletContext.%20Listeners.md)
+
 - Servlet API. Фильтры и цепочка фильтров. Управление состоянием ответа
 - Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
 - Знакомство с JSP и JSTL
