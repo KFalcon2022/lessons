@@ -119,7 +119,8 @@ public List<Passenger> findByFullName(String firstName,String lastName) {
         statement.setString(2, lastName);
 
         ResultSet result = statement.executeQuery();
-
+        
+        // Некий самописный класс-маппер, формирующий объект Passenger на базе ResultSet
         return mapper.map(result);
     } catch (SQLException e) {
         throw new RuntimeException(e);
