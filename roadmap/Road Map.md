@@ -344,7 +344,8 @@ SOLID и другие принципы ОО-дизайна
 
 **147.** [Servlet API. ServletConfig. ServletContext. Слушатели событий](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/147/Servlet%20API.%20ServletConfig.%20ServletContext.%20Listeners.md)
 
-- Servlet API. Фильтры и цепочка фильтров. Управление состоянием ответа
+**148.** [Servlet API. Фильтры и цепочка фильтров. Модификация запроса и ответа](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/148/Servlet%20API.%20Filter.%20Filter%20chain.%20Request%20and%20response%20modification.md)
+
 - Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
 - Знакомство с JSP и JSTL
 - Сценарии обработки ошибок
