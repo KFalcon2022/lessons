@@ -346,10 +346,11 @@ SOLID и другие принципы ОО-дизайна
 
 **148.** [Servlet API. Фильтры и цепочка фильтров. Модификация запроса и ответа](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/148/Servlet%20API.%20Filter.%20Filter%20chain.%20Request%20and%20response%20modification.md)
 
+**149.** [Виды аутентификации](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/149/Authentification%20Types.md)
+
 - Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
 - Знакомство с JSP и JSTL
 - Сценарии обработки ошибок
-- Виды аутентификации
 - (Дополнительно) Асинхронная обработка сервлетов
 
 ## Системы контроля версий и git. GitHub
