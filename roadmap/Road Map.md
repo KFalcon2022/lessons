@@ -348,7 +348,8 @@ SOLID и другие принципы ОО-дизайна
 
 **149.** [Виды аутентификации](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/149/Authentification%20Types.md)
 
-- Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
+**150.** [Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/150/Servlet%20API.%20Cookies.%20Session.%20Session-based%20auth.md)
+
 - Знакомство с JSP и JSTL
 - Сценарии обработки ошибок
 - (Дополнительно) Асинхронная обработка сервлетов
