@@ -350,7 +350,8 @@ SOLID и другие принципы ОО-дизайна
 
 **150.** [Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/150/Servlet%20API.%20Cookies.%20Session.%20Session-based%20auth.md)
 
-- Знакомство с JSP и JSTL
+**151.** [Знакомство с JSP и JSTL. Перенаправление запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/151/JSP.%20JSTL.%20Redirects.md)
+
 - Сценарии обработки ошибок
 - (Дополнительно) Асинхронная обработка сервлетов
 
