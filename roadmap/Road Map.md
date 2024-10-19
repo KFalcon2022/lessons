@@ -352,7 +352,8 @@ SOLID и другие принципы ОО-дизайна
 
 **151.** [Знакомство с JSP и JSTL. Перенаправление запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/151/JSP.%20JSTL.%20Redirects.md)
 
-- Сценарии обработки ошибок
+**152.** [Сценарии обработки ошибок](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/152/Exception%20handling.md)
+
 - (Дополнительно) Асинхронная обработка сервлетов
 
 ## Системы контроля версий и git. GitHub
