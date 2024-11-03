@@ -262,6 +262,7 @@ public class AuthorizationFilter extends HttpFilter {
         
         if (session == null) {
           response.sendError(401);
+          return;
         }
 
         // Если сессия есть - пользователь авторизован, можно пропускать его дальше. Такое возможно, если далее еще 
