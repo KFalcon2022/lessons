@@ -368,7 +368,8 @@ SOLID и другие принципы ОО-дизайна
 
 **153.** [ORM и JPA. Что такое Hibernate](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/153/ORM.%20JPA.%20Hibernate.md)
 
-- Подключение Hibernate к проекту. Конфигурация
+**154.** [Подключение Hibernate к проекту. Конфигурация](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/154/Hibernate%20configuration.md)
+
 - _Entity_
 - _EntityManager_ и _EntityManagerFactory_. Аналоги в Hibernate
 - Запросы в Hibernate. JPQL и HQL
