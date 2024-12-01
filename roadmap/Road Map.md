@@ -470,7 +470,8 @@ _Будет дополнено_
 
 ## Pet Projects
 
-[Система распределения места в общежитиях](https://github.com/KFalcon2022/lessons/blob/master/lessons/pet-projects/Pet%20project.md)
+- [Система распределения места в общежитиях](https://github.com/KFalcon2022/lessons/blob/master/lessons/pet-projects/Pet%20project.md)
+- [Приложения для регистрации авиабилетов](https://github.com/KFalcon2022/servlet-ticket-booking)
 
 Любые замечания и предложения приветствуются. Более, чем вероятно, что план, описанный одним человеком, не будет
 идеальным и требует корректировки. Кроме того, вполне возможно, что были опущены темы, очевидные практикующему

@@ -219,6 +219,9 @@ HikariDataSource dataSource = new HikariDataSource(configuration);
 
 Ветка для PR: `for-pr`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/jdbc-practical-tasks/commit/5d38b18d978c2a6479e8e1cacc46ae133c0c8d12)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -694,6 +694,9 @@ legacy-кода. Если у вас есть необходимость восп
 
 Ветка для PR: `mockito-for-pr`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/unit-testing-practical-task/tree/mockito-solution)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

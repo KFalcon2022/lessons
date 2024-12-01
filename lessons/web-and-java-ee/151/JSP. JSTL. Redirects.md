@@ -457,6 +457,9 @@ Servlet API предоставляет инструменты для обоих 
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-servlet-practical-task/tree/for-pr/jsp-and-redirect).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/car-servlet-practical-task/tree/solution/jsp-and-redirect)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

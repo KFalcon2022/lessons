@@ -317,6 +317,9 @@ Hibernate. В целом же сфера применения этой конц�
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-servlet-practical-task/tree/for-pr/context-and-listeners).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/car-servlet-practical-task/tree/solution/context-and-listeners)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

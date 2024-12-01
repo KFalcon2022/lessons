@@ -225,6 +225,9 @@ JDBC имеет отдельный API для работы с транзакци
 
 Ветка для PR: `for-pr`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/jdbc-practical-tasks/commit/b0ec97eafeecc79e9e4fc3f4b1449ce2a17c2bd5)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

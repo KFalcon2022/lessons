@@ -657,6 +657,9 @@ JUnit - точно не самый сложный фреймворк в Java. И
 
 Ссылка на репозиторий: [GitHub](https://github.com/KFalcon2022/unit-testing-practical-task). Ветка для PR: `for-pr`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/unit-testing-practical-task/tree/junit-solution)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 > 
 > Канал: https://t.me/ViamSupervadetVadens

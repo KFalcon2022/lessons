@@ -566,6 +566,9 @@ Servlet API само по себе. В том или ином виде это р
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-servlet-practical-task/tree/for-pr/filter).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/car-servlet-practical-task/tree/solution/filter)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens
