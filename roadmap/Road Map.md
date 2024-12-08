@@ -372,12 +372,12 @@ SOLID и другие принципы ОО-дизайна
 
 **155.** [JPA Entity](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/155/JPA%20Entity.md) 
 
-- _EntityManager_ и _EntityManagerFactory_. Аналоги в Hibernate
-- Запросы в Hibernate. JPQL и HQL
+**156.** [EntityManagerFactory. EntityManager. Жизненный цикл Entity](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/156/EntityManagerFactory.%20EntityManager.%20Entity%20lifecycle.md)
+
+- Примеры работы с EntityManager и перспективы развития
+- Отношения в Hibernate. Проблема N+1. LazyInitializationException
+- JPQL
 - Criteria API
-- Жизненный цикл Entity
-- Работа с транзакциями. Понятие Propagation
-- Отношения в Hibernate. Проблема N+1\. _LazyInitializationException_
 - Кэширование в Hibernate. Кэш первого уровня или Persistence Context
 - Кэширование в Hibernate. Кэш второго уровня. Кэш запросов
 - Стратегии наследования в Hibernate
