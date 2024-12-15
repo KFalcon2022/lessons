@@ -374,7 +374,8 @@ SOLID и другие принципы ОО-дизайна
 
 **156.** [EntityManagerFactory. EntityManager. Жизненный цикл Entity](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/156/EntityManagerFactory.%20EntityManager.%20Entity%20lifecycle.md)
 
-- Примеры работы с EntityManager и перспективы развития
+**157.** [Примеры работы с EntityManager и перспективы развития](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/157/EntityManager.%20Examples.md)
+
 - Отношения в Hibernate. Проблема N+1. LazyInitializationException
 - JPQL
 - Criteria API
