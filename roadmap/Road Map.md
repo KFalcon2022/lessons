@@ -376,7 +376,8 @@ SOLID и другие принципы ОО-дизайна
 
 **157.** [Примеры работы с EntityManager и перспективы развития](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/157/EntityManager.%20Examples.md)
 
-- Отношения в Hibernate. Проблема N+1. LazyInitializationException
+**158.** [Отношения в JPA. Ленивая загрузка. Проблема N+1](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/158/JPA%20Relationships.md)
+
 - JPQL
 - Criteria API
 - Кэширование в Hibernate. Кэш первого уровня или Persistence Context
