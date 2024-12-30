@@ -754,7 +754,7 @@ List<Long> ids = em.createNativeQuery("select id from person", Long.class)
 используя JPA для коммуникации с СУБД. Обновленное условие описано здесь:
 [ссылка](https://github.com/KFalcon2022/car-jpa-practical-task/).
 
-Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-jpa-practical-task/tree/for-pr).
+Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-jpa-practical-task/tree/for-pr/entity).
 
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
