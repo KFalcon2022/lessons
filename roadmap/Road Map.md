@@ -91,7 +91,7 @@
 
 **14.** [Принципы ООП. Полиморфизм](https://telegra.ph/Polimorfizm-Pereopredelenie-metodov-Vidy-polimorfizma-i-svyazyvanie-11-25)
 
-SOLID и другие принципы ОО-дизайна
+**159.** [SOLID и другие принципы ОО-дизайна](https://github.com/KFalcon2022/lessons/blob/master/lessons/oop/159/SOLID.%20Principles%20of%20Object%20Oriented%20Design.md)
 
 ## Collections Framework
 
