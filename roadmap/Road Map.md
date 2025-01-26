@@ -460,7 +460,8 @@ _Будет дополнено_
 
 **144.** [JSON](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/144/JSON.md)
 
-- Паттерны проектирования
+**160.** [Паттерны проектирования](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/160/Design%20patterns.md)
+
 - Docker
 - Lombok
 - Docker Compose и k8s
