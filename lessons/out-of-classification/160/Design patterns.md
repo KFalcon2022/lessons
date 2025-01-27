@@ -91,8 +91,8 @@ GoF) и их книга "Design Patterns: Elements of Reusable Object-Oriented S
 
 1. Singleton. Разобран выше. На русский традиционно переводится как "одиночка", но фактически это название не 
    используется;
-2. Factory method (фабричный метод). Примером реализации может служить знакомый нам по JPA `EntityManagerFactory` и 
-   его реализации в различных persistence provider'ах. 
+2. Factory method (фабричный метод). Примером реализации может служить знакомый нам по JPA 
+   `EntityManagerFactory#createEntityManager()` и его реализации в различных persistence provider'ах. 
 3. Abstract factory (абстрактная фабрика). Примером абстрактной фабрики в некотором отношении можно считать 
     `Connection` в JDBC - он предоставляет порождающие методы для различных типов интерфейсов-statement'ов, при этом сам
    является интерфейсом;
