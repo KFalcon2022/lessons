@@ -378,7 +378,8 @@
 
 **158.** [Отношения в JPA. Ленивая загрузка. Проблема N+1](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/158/JPA%20Relationships.md)
 
-- JPQL
+**161.** [JPQL](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/161/JPQL.md)
+
 - Criteria API
 - Кэширование в Hibernate. Кэш первого уровня или Persistence Context
 - Кэширование в Hibernate. Кэш второго уровня. Кэш запросов
