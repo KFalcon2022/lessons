@@ -380,7 +380,9 @@
 
 **161.** [JPQL](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/161/JPQL.md)
 
-- Criteria API
+**162.** [Criteria API. Основной API](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/162/Criteria%20API.%20Main%20API.md)
+
+- Criteria API. Типобезопасность и метамодель
 - Кэширование в Hibernate. Кэш первого уровня или Persistence Context
 - Кэширование в Hibernate. Кэш второго уровня. Кэш запросов
 - Стратегии наследования в Hibernate
