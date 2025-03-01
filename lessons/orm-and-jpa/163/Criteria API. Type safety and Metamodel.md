@@ -171,7 +171,7 @@ public abstract class BrandEntity_ {
 > блоков (`plugins`, `dependencies` и т.д.) и строго после импорта плагинов - раньше Gradle как минимум не будет 
 > знать, что он вообще работает с Java-проектом.
 
-```java
+```groovy
 // Для всех тасок, отвечающих за компиляцию Java-кода
 tasks.withType(JavaCompile)
         .configureEach {
