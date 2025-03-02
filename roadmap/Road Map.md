@@ -384,7 +384,8 @@
 
 **163.** [Criteria API. Типобезопасность и метамодель](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/163/Criteria%20API.%20Type%20safety%20and%20Metamodel.md)
 
-- Кэш первого уровня или Persistence Context
+**164.** [Кэш первого уровня или Persistence Context](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/164/Persistence%20Context.md)
+
 - JPA и Hibernate. Кэш второго уровня. Кэш запросов
 - Наследование в JPA
 - EntityGraph
