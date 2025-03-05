@@ -91,9 +91,9 @@
 > -- Конечный набор атрибутов - дело десятое, достать его по списку id - дело техники
 > select distinct c.id
 > from car c
-> -- Если фильтровать по присоединенной таблице не нужно - нет смысла и тратить ресурсы на join
-> left join brand b on case when coalesce(:brandNames) is null then 1 != 1 else b.id = c.fk_brand end
-> left join model m on case when coalesce(:modelNames) is null then 1 != 1 else m.id = c.fk_model end
+> -- Если фильтровать по присоединенной таблице не нужно - нет смысла и тратить ресурсы на фактический join
+> left join brand b on coalesce(:brandNames) is not null and b.id = c.fk_brand
+> left join model m on coalesce(:modelNames) is not null and m.id = c.fk_model
 > where (:priceFrom is null or c.price >= :priceFrom)
 > and (:priceTo is null or c.price < :priceTo)
 > and (coalesce(:brandNames) is null or b.name in (:brandNames))
