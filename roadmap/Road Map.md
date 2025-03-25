@@ -387,7 +387,9 @@
 **164.** [Кэш первого уровня или Persistence Context](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/164/Persistence%20Context.md)
 
 **165.** [JPA и Hibernate. Кэш второго уровня. Кэш запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/165/Hibernate%20second%20level%20cache.%20Query%20cache.md)
-- Наследование в JPA
+
+**166.** [Наследование в JPA](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/166/JPA%20inheritance.md)
+
 - EntityGraph
 
 ## Spring Framework
