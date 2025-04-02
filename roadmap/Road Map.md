@@ -390,7 +390,7 @@
 
 **166.** [Наследование в JPA](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/166/JPA%20inheritance.md)
 
-- EntityGraph
+**167.** [Entity Graph](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/167/Entity%20Graph.md)
 
 ## Spring Framework
 
