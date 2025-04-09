@@ -762,14 +762,12 @@ public class ExampleModelDeserializer extends JsonDeserializer<ExampleModel> {
 Для добавления (де-) сериализаторов API достаточно простое:
 
 ```java
-        Module customModule = new SimpleModule()
-        .addSerializer(ExampleModel.class, new ExampleModelSerializer())
-        .addDeserializer(ExampleModel.class, new ExampleModelDeserializer());
+Module customModule = new SimpleModule()
+    .addSerializer(ExampleModel.class, new ExampleModelSerializer())
+    .addDeserializer(ExampleModel.class, new ExampleModelDeserializer());
 
 var objectMapper = new ObjectMapper();
-objectMapper.
-
-registerModule(customModule);
+objectMapper.registerModule(customModule);
 ```
 
 `SimpleModule` - базовая реализация модуля, которая позволяет добавить необходимую кастомизацию. В нашем случае -
