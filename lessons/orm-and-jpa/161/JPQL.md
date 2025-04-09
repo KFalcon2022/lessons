@@ -1021,6 +1021,8 @@ JPQL - один из ключевых механизмов JPA, позволяю
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-jpa-practical-task/tree/for-pr/jpql).
 
+**Разбор практики для этого урока**: [ссылка](https://github.com/KFalcon2022/car-jpa-practical-task/tree/solution/jpql).
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

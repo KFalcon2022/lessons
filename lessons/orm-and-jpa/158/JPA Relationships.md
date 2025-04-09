@@ -735,6 +735,8 @@ List<String> getCarOwnerNames(EntityManager em) {
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-jpa-practical-task/tree/for-pr/entity-relationship).
 
+**Разбор практики для этого урока**: [ссылка](https://github.com/KFalcon2022/car-jpa-practical-task/tree/solution/entity-relationship).
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

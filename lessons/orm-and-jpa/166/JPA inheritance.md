@@ -844,6 +844,14 @@ List<Address> addresses = em.createQuery("select p.address from PersonEntity p",
 - Таблица на сущность:
   [ссылка](https://github.com/KFalcon2022/jpa-entities-inheritance-practical-task/tree/for-pr/table-per-class-strategy).
 
+**Разбор практики для этого урока**:
+- Общая таблица:
+  [ссылка](https://github.com/KFalcon2022/jpa-entities-inheritance-practical-task/tree/solution/single-table-strategy);
+- JOIN-стратегия:
+  [ссылка](https://github.com/KFalcon2022/jpa-entities-inheritance-practical-task/tree/solution/join-strategy);
+- Таблица на сущность:
+  [ссылка](https://github.com/KFalcon2022/jpa-entities-inheritance-practical-task/tree/solution/table-per-class-strategy).
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -756,6 +756,8 @@ List<Long> ids = em.createNativeQuery("select id from person", Long.class)
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-jpa-practical-task/tree/for-pr/entity).
 
+**Разбор практики для этого урока**: [ссылка](https://github.com/KFalcon2022/car-jpa-practical-task/tree/solution/entity).
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

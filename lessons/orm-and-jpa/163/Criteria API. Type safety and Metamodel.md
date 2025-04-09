@@ -432,6 +432,8 @@ List<CarEntity> cars = em.createQuery(query)
 
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/car-jpa-practical-task/tree/for-pr/criteria).
 
+**Разбор практики для этого урока**: [ссылка](https://github.com/KFalcon2022/car-jpa-practical-task/tree/solution/criteria).
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens
