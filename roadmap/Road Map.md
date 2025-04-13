@@ -469,13 +469,14 @@ _Будет дополнено_
 
 **160.** [Паттерны проектирования](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/160/Design%20patterns.md)
 
+**168.** [Class loading](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/168/Class%20loading.md)
+
 - Docker
 - Lombok
 - Docker Compose и k8s
 - Java Reflection
 - Аннотации
 - Понятие сериализации
-- Класслоадеры
 - Знакомство с REST API
 
 ## Pet Projects
