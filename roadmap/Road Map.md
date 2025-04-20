@@ -471,10 +471,12 @@ _Будет дополнено_
 
 **168.** [Class loading](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/168/Class%20loading.md)
 
+**169.** [Reflection API. Концепция и примеры использования](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/169/Reflection%20API.%20Theory.md)
+
+- Reflection API. Практика применения
 - Docker
 - Lombok
 - Docker Compose и k8s
-- Java Reflection
 - Аннотации
 - Понятие сериализации
 - Знакомство с REST API
