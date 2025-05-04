@@ -473,7 +473,8 @@ _Будет дополнено_
 
 **169.** [Reflection API. Концепция и примеры использования](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/169/Reflection%20API.%20Theory.md)
 
-- Reflection API. Практика применения
+**170.** [Reflection API. Практика применения](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/170/Reflection%20API.%20Practice.md)
+
 - Docker
 - Lombok
 - Docker Compose и k8s
