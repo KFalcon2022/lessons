@@ -475,10 +475,11 @@ _Будет дополнено_
 
 **170.** [Reflection API. Практика применения](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/170/Reflection%20API.%20Practice.md)
 
+**171.** [Аннотации](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/171/Annotations.md)
+
 - Docker
 - Lombok
 - Docker Compose и k8s
-- Аннотации
 - Понятие сериализации
 - Знакомство с REST API
 
