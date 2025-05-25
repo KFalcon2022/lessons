@@ -748,6 +748,9 @@ System.out.println(value1Method.getDefaultValue()); // "myDefaultValue"
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/practical-tasks/tree/for-pr)
 (пакет `com.walking.lesson171_annotations`).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson171_annotations)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

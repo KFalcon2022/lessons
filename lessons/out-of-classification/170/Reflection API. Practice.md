@@ -985,6 +985,9 @@ var addressProxy = (Address) Proxy.newProxyInstance(
 Ветка для PR: [for-pr](https://github.com/KFalcon2022/practical-tasks/tree/for-pr)
 (пакет `com.walking.lesson170_reflection`).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson170_reflection)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens
