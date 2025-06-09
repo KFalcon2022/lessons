@@ -396,11 +396,12 @@
 
 **172.** [Spring. Введение, основные задачи и возможности](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/172/Spring.%20Introduction.md)
 
-- IoC. Виды, реализации в Spring. Знакомство с ApplicationContext
+**173.** [Inversion of Control. Виды, реализации в Spring](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/173/Inversion%20of%20Control.md)
+
+- Подключение Spring в проект. Основные аннотации. Знакомство с ApplicationContext
 - Spring bean. Жизненный цикл
 - Области видимости бинов
 - Способы конфигурации. XML, Java, annotation, Groovy
-- Основные аннотации
 - Особенности использования Java-конфигурации
 - Dependency Injection на практике
 - @Lazy. Проблема циклических зависимостей
