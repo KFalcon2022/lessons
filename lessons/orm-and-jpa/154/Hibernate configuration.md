@@ -15,7 +15,7 @@
 теперь будет происходить неявно, во внутренней логике ORM:
 
 ```groovy
-runtimeOnly 'org.postgresql:postgresql:42.7.1'
+    runtimeOnly 'org.postgresql:postgresql:42.7.1'
 ```
 
 Также нам необходим указать конкретную ORM, которую мы будем использовать. Как было сказано ранее, мы будем 
