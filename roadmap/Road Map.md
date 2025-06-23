@@ -398,7 +398,8 @@
 
 **173.** [Inversion of Control. Виды, реализации в Spring](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/173/Inversion%20of%20Control.md)
 
-- Подключение Spring в проект. Основные аннотации. Знакомство с ApplicationContext
+**174.** [Подключение Spring в проект. Основные аннотации. Знакомство с ApplicationContext](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/174/Spring%20main%20annotations.%20ApplicationContext.md)
+
 - Spring bean. Жизненный цикл
 - Области видимости бинов
 - Способы конфигурации. XML, Java, annotation, Groovy
