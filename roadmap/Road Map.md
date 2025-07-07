@@ -400,7 +400,8 @@
 
 **174.** [Подключение Spring в проект. Основные аннотации. Знакомство с ApplicationContext](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/174/Spring%20main%20annotations.%20ApplicationContext.md)
 
-- Spring bean. Жизненный цикл
+**175.** [Инициализация контекста Spring. Жизненный цикл bean'а](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/175/Spring%20context%20initialization.%20Bean%20lifecycle.md)
+
 - Области видимости бинов
 - Способы конфигурации. XML, Java, annotation, Groovy
 - Особенности использования Java-конфигурации
