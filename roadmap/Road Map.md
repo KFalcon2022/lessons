@@ -402,7 +402,8 @@
 
 **175.** [Инициализация контекста Spring. Жизненный цикл bean'а](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/175/Spring%20context%20initialization.%20Bean%20lifecycle.md)
 
-- Области видимости бинов
+**176.** [Области видимости бинов](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/176/Bean%20scopes.md)
+
 - Способы конфигурации. XML, Java, annotation, Groovy
 - Особенности использования Java-конфигурации
 - Dependency Injection на практике
