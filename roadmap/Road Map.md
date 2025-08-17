@@ -186,6 +186,8 @@
 
 **76.** [Проблемы многопоточности](https://telegra.ph/Mnogopotochnost-Problemy-mnogopotochnosti-05-14)
 
+**177.** [_ThreadLocal_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/177/ThreadLocal.md)
+
 **78.** [Что дальше?](https://telegra.ph/Mnogopotochnost-CHto-dalshe-05-20)
 
 ## Базы данных и основы SQL
