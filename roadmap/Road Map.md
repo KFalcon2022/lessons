@@ -174,7 +174,7 @@
 
 **71.** [_java.util.concurrent_. Потокобезопасные коллекции](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Potokobezopasnye-kollekcii-04-29)
 
-**73.** [_java.util.concurrent_. Блокирующие и неблокирующие очереди](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Blokiruyushchie-i-neblokiruyushchie-ocheredi-05-07)
+**72.** [_java.util.concurrent_. Блокирующие и неблокирующие очереди](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Blokiruyushchie-i-neblokiruyushchie-ocheredi-05-07)
 
 **73.** [_java.util.concurrent_. Барьер. _CyclicBarrier_. Знакомство с _Phaser_](https://telegra.ph/javautilconcurrent-Barer-CyclicBarrier-Znakomstvo-s-Phaser-05-08)
 
@@ -484,8 +484,9 @@ _Будет дополнено_
 
 **171.** [Аннотации](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/171/Annotations.md)
 
+**178.** [Lombok](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/178/Lombok.md)
+
 - Docker
-- Lombok
 - Docker Compose и k8s
 - Понятие сериализации
 - Знакомство с REST API
