@@ -406,7 +406,8 @@
 
 **176.** [Области видимости бинов](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/176/Bean%20scopes.md)
 
-- Способы конфигурации. XML, Java, annotation, Groovy
+**179.** [Способы конфигурации](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/179/Configuration%20types.md)
+
 - Особенности использования Java-конфигурации
 - Dependency Injection на практике
 - @Lazy. Проблема циклических зависимостей
