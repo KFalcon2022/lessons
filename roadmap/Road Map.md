@@ -408,9 +408,12 @@
 
 **179.** [Способы конфигурации](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/179/Configuration%20types.md)
 
-- Особенности использования Java-конфигурации
-- Dependency Injection на практике
-- @Lazy. Проблема циклических зависимостей
+**180.** [Java-конфигурация. Тонкая настройка](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/180/Java%20config.%20Fine-tuning.md)
+
+- Работа с аннотациями в Spring
+- Циклические зависимости
+- Планировщик задач и асинхронное выполнение операций
+- Spring Events
 
 ### Spring AOP
 
