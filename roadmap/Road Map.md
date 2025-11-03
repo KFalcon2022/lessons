@@ -410,7 +410,8 @@
 
 **180.** [Java-конфигурация. Тонкая настройка](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/180/Java%20config.%20Fine-tuning.md)
 
-- Работа с аннотациями в Spring
+**181.** [Работа с аннотациями в Spring](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/181/Annotation%20handling.md)
+
 - Циклические зависимости
 - Планировщик задач и асинхронное выполнение операций
 - Spring Events
