@@ -412,10 +412,11 @@
 
 **181.** [Работа с аннотациями в Spring](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/181/Annotation%20handling.md)
 
-- Циклические зависимости
-- Планировщик задач и асинхронное выполнение операций
-- Spring Events
+**182.** [Планировщик задач и асинхронное выполнение операций](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/182/Scheduled%20and%20async%20operations.md)
 
+- Циклические зависимости
+- Spring Events
+ 
 ### Spring AOP
 
 - Введение в АОП. Spring AOP
