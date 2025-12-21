@@ -414,8 +414,9 @@
 
 **182.** [Планировщик задач и асинхронное выполнение операций](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/182/Scheduled%20and%20async%20operations.md)
 
+**183.** [Spring Events](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/183/Spring%20Events.md)
+
 - Циклические зависимости
-- Spring Events
  
 ### Spring AOP
 
