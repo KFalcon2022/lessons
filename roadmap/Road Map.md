@@ -416,7 +416,7 @@
 
 **183.** [Spring Events](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/183/Spring%20Events.md)
 
-- Циклические зависимости
+**184.** [Циклические зависимости](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/184/Circular%20dependencies.md)
  
 ### Spring AOP
 
@@ -495,7 +495,6 @@ _Будет дополнено_
 
 - Docker
 - Docker Compose и k8s
-- Понятие сериализации
 - Знакомство с REST API
 
 ## Pet Projects
