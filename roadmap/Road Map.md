@@ -420,8 +420,9 @@
  
 ### Spring AOP
 
+**185.** [Прокси в Spring](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/185/Spring%20Proxies.md)
+
 - Введение в АОП. Spring AOP
-- Прокси в Spring
 
 ### Spring MVC
 
