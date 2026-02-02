@@ -422,7 +422,11 @@
 
 **185.** [Прокси в Spring](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/185/Spring%20Proxies.md)
 
-- Введение в АОП. Spring AOP
+**186.** [Spring AOP. Базовые примеры](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/186/Spring%20AOP.%20Basic%20examples.md)
+
+- Spring AOP. Общая идея и основные термины. Немного о AspectJ
+- Spring AOP. API. Основные аннотации и интерфейсы
+- Spring AOP. API. AspectJ-выражения
 
 ### Spring MVC
 
