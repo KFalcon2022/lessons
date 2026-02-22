@@ -424,9 +424,9 @@
 
 **186.** [Spring AOP. Базовые примеры](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/186/Spring%20AOP.%20Basic%20examples.md)
 
-- Spring AOP. Общая идея и основные термины. Немного о AspectJ
-- Spring AOP. API. Основные аннотации и интерфейсы
-- Spring AOP. API. AspectJ-выражения
+**187.**  [Spring AOP. Основные термины и API. Немного об AspectJ](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/187/Spring%20AOP.%20Main%20terms%20and%20API.md)
+
+- Spring AOP. AspectJ-выражения
 
 ### Spring MVC
 
