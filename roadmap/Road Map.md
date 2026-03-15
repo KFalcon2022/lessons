@@ -426,7 +426,7 @@
 
 **187.**  [Spring AOP. Основные термины и API. Немного об AspectJ](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/187/Spring%20AOP.%20Main%20terms%20and%20API.md)
 
-- Spring AOP. AspectJ-выражения
+**188.** [Spring AOP. AspectJ pointcut-выражения](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/188/Spring%20AOP.%20AspectJ%20pointcut%20expressions.md)
 
 ### Spring MVC
 
