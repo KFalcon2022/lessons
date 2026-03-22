@@ -430,7 +430,8 @@
 
 ### Spring MVC
 
-- Паттерн MVC. Реализация в Spring MVC
+**189.** [Паттерн MVC. Реализация в Spring MVC](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/189/MVC%20pattern.%20Spring%20MVC%20implementation.md)
+
 - Конфигурация Spring MVC
 - Основные аннотации и практика использования
 - Знакомство с DispatcherServlet
