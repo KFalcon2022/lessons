@@ -432,7 +432,8 @@
 
 **189.** [Паттерн MVC. Реализация в Spring MVC](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/189/MVC%20pattern.%20Spring%20MVC%20implementation.md)
 
-- Конфигурация Spring MVC
+**190.** [Конфигурация Spring MVC](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/190/Spring%20MVC%20Configuration.md)
+
 - Основные аннотации и практика использования
 - Знакомство с DispatcherServlet
 - Формирование ответа. ResponseEntity
