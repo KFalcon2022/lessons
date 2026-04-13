@@ -246,7 +246,7 @@ public class CarEntity {
 public class PersonEntity {
     // Ранее добавленные поля
 
-    @OneToOne(mappedBy = "fk_person")
+    @OneToOne(mappedBy = "owner")
     private CarEntity car;
 
     // Getter'ы и Setter'ы
@@ -512,7 +512,7 @@ public class CarEntity {
 - `joinColumns`. Массив колонок, обеспечивающих FK для текущей сущности. В нашем случае колонка лишь одна - 
   `fk_person`. Если бы связь обеспечивалась не по PK или сам PK был композитным - было бы актуально указать 
   несколько колонок;
-- `inverseJoinColumns`. То же, что и `joinColumns`, то для связанной сущности;
+- `inverseJoinColumns`. То же, что и `joinColumns`, только для связанной сущности;
 - `foreignKey`. Играет ту же роль, что и одноименный атрибут в `@JoinColumn`;
 - `inverseForeignKey`. Аналогичен `foreignKey`, но применяется для FK для связанной (по отношению с владельцу связи) 
   сущности. Например, если владельцем связи является `PersonEntity`, в этом атрибуте можно описать FK для `CarEntity`;

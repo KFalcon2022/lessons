@@ -341,7 +341,7 @@ new String(req.getInputStream().readAllBytes());
 необходим низкоуровневый механизм записи данных в тело. На помощь снова приходит `java.io`:
 
 - `getWriter()` - возвращает `PrintWriter`. Кроме характерных для `Writer` методов типа `write()` содержит более
-  комфортные для работы методы `ptint()` (с вариациями вроде `println()` и `printf()`) и `append()`, общий принцип
+  комфортные для работы методы `print()` (с вариациями вроде `println()` и `printf()`) и `append()`, общий принцип
   которых известен нам по консольному выводу через `System.out` и `StringBuilder` соответственно.
 - `getOutputStream()` - возвращает `ServletOutputStream`. В отличие от классического `OutputStream` имеет в своем
   API набор print-методов, по семантике схожих с методами `PrintWriter`.
