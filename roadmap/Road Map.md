@@ -434,14 +434,15 @@
 
 **190.** [Конфигурация Spring MVC](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/190/Spring%20MVC%20Configuration.md)
 
-- Основные аннотации и практика использования
-- Знакомство с DispatcherServlet
-- Формирование ответа. ResponseEntity
-- Сериализация и десериализация в Spring MVC
-- Обработка ошибок
-- Валидация запросов. javax.validation в Spring MVC
-- Взаимодействие с заголовками запроса/ответа
-- Что дальше?
+**191.** [Spring MVC. Основные аннотации и практика использования](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/191/Spring%20MVC.%20Main%20Annotations.md)
+
+- Spring MVC. Знакомство с DispatcherServlet
+- Spring MVC. Формирование ответа. ResponseEntity
+- Spring MVC. Сериализация и десериализация в Spring MVC
+- Spring MVC. Обработка ошибок
+- Spring MVC. Валидация запросов. javax.validation в Spring MVC
+- Spring MVC. Взаимодействие с заголовками запроса/ответа
+- Spring MVC. Что дальше?
 
 ### Spring JDBC
 
