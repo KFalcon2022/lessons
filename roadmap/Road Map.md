@@ -501,9 +501,10 @@ _Будет дополнено_
 
 **178.** [Lombok](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/178/Lombok.md)
 
+**192.** [Знакомство с REST API](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/192/REST%20API.md)
+
 - Docker
 - Docker Compose и k8s
-- Знакомство с REST API
 
 ## Pet Projects
 
