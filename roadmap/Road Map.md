@@ -438,13 +438,12 @@
 
 **193.** [Spring MVC. Знакомство с DispatcherServlet](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/193/Spring%20MVC.%20DispatcherServlet.md)
 
-- Spring MVC. Формирование ответа. ResponseEntity
-- Spring MVC. Сериализация и десериализация в Spring MVC
+**194.** [Spring MVC. HttpEntity и ResponseEntity](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/194/Spring%20MVC.%20HttpEntity%20and%20ResponseEntity.md)
+
 - Spring MVC. Обработка ошибок
 - Spring MVC. Работа с сервлетными фильтрами
 - Spring MVC. Валидация запросов. javax.validation в Spring MVC
-- Spring MVC. Взаимодействие с заголовками запроса/ответа
-- Spring MVC. Отправка HTTP-запросов. Веб-клиенты
+- Spring MVC. Отправка HTTP-запросов. HTTP-клиенты
 - Spring MVC. Что дальше?
 
 ### Spring JDBC
