@@ -440,10 +440,12 @@
 
 **194.** [Spring MVC. HttpEntity и ResponseEntity](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/194/Spring%20MVC.%20HttpEntity%20and%20ResponseEntity.md)
 
+**195.** [Spring MVC. Работа с сервлетными фильтрами](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/195/Spring%20MVC.%20Servlet%20Filters.md)
+
 - Spring MVC. Обработка ошибок
-- Spring MVC. Работа с сервлетными фильтрами
 - Spring MVC. Валидация запросов. javax.validation в Spring MVC
 - Spring MVC. Отправка HTTP-запросов. HTTP-клиенты
+- Spring MVC. Тонкая настройка
 - Spring MVC. Что дальше?
 
 ### Spring JDBC
