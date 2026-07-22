@@ -286,6 +286,8 @@
 
 **145.** [FasterXML Jackson. Сериализация и десериализация JSON в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/145/FasterXML%20Jackson.md)
 
+**196.** [Jakarta Validation](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/196/Jakarta%20Validation.md)
+
 Дополнительно (видео): [Знакомство с системами сборки. Maven](https://t.me/ViamSupervadetVadens/174)
 
 ## Unit-тестирование
@@ -442,9 +444,9 @@
 
 **195.** [Spring MVC. Работа с сервлетными фильтрами](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/195/Spring%20MVC.%20Servlet%20Filters.md)
 
-- Spring MVC. Обработка ошибок
-- Spring MVC. Валидация запросов. javax.validation в Spring MVC
 - Spring MVC. Отправка HTTP-запросов. HTTP-клиенты
+- Spring MVC. Интеграция Jakarta Validation
+- Spring MVC. Обработка ошибок
 - Spring MVC. Тонкая настройка
 - Spring MVC. Что дальше?
 
