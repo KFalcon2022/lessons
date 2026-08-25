@@ -444,7 +444,8 @@
 
 **195.** [Spring MVC. Работа с сервлетными фильтрами](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/195/Spring%20MVC.%20Servlet%20Filters.md)
 
-- Spring MVC. Отправка HTTP-запросов. HTTP-клиенты
+**197.** [Spring MVC. HTTP-клиенты](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/197/Spring%20MVC.%20HTTP%20clients.md)
+
 - Spring MVC. Интеграция Jakarta Validation
 - Spring MVC. Обработка ошибок
 - Spring MVC. Тонкая настройка
