@@ -55,31 +55,31 @@
 
 **21.** [Неизменяемые объекты](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/021/Immutable%20objects.md)
 
-**22.** [Классы-обертки в Java](https://telegra.ph/Klassy-obertki-v-Java-12-05)
+**22.** [Классы-обертки в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/022/Wrapper%20classes.md)
 
-**23.** [Память в JVM](https://telegra.ph/Pamyat-v-JVM-12-06)
+**23.** [Память в JVM](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/023/JVM%20Memory.md)
 
-**24.** [Garbage Collector](https://telegra.ph/Garbage-Collector-12-07)
+**24.** [Garbage Collector](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/024/Garbage%20Collector.md)
 
-**25.** [Вложенные классы](https://telegra.ph/Vlozhennye-klassy-12-08)
+**25.** [Вложенные классы](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/025/Nested%20classes.md)
 
-**26.** [Классы для работ со строками](https://telegra.ph/Klassy-dlya-rabot-so-strokami-12-09)
+**26.** [Классы для работ со строками](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/026/String%20classes.md)
 
-**28.** [Generics](https://telegra.ph/Generics-CHast-I-12-12)
+**28.** [Generics](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/028/Generics.%20Part%20I.md)
 
-**29.** [Generics. Параметризованные методы и Wildcard](https://telegra.ph/Generics-CHast-II-12-13)
+**29.** [Generics. Параметризованные методы и Wildcard](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/029/Generics.%20Part%20II.md)
 
-**30.** [Регулярные выражения в Java](https://telegra.ph/Regulyarnye-vyrazheniya-12-14)
+**30.** [Регулярные выражения в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/030/Regular%20expressions.md)
 
-**31.** [Классы ресурсов. I/O Streams](https://telegra.ph/Klassy-resursov-IO-Streams-12-16)
+**31.** [Классы ресурсов. I/O Streams](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/031/Resource%20classes.%20IO%20Streams.md)
 
-**32.** [Работа с файлами. Ресурсы проекта. _FileInputStream_ и _FileOutputStream_](https://telegra.ph/Rabota-s-fajlami-CHast-I-12-17)
+**32.** [Работа с файлами. Ресурсы проекта. _FileInputStream_ и _FileOutputStream_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/032/Working%20with%20files.%20Part%20I.md)
 
-**33.** [Работа с файлами. Класс _File_. _Reader_ и _Writer_. Буферизация](https://telegra.ph/Rabota-s-fajlami-CHast-II-12-19)
+**33.** [Работа с файлами. Класс _File_. _Reader_ и _Writer_. Буферизация](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/033/Working%20with%20files.%20Part%20II.md)
 
-**34.** [Работа с датами и временем](https://telegra.ph/Rabota-s-datami-i-vremenem-12-20)
+**34.** [Работа с датами и временем](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/034/Working%20with%20dates%20and%20time.md)
 
-**38.** [Механизмы сравнения. _Comparable_ и _Comparator_](https://telegra.ph/Mehanizmy-sravneniya-Comparable-i-Comparator-01-14)
+**38.** [Механизмы сравнения. _Comparable_ и _Comparator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/038/Comparable%20and%20Comparator.md)
 
 ## Объектно-ориентированное программирование
 
