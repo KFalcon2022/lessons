@@ -85,31 +85,31 @@
 
 **11.** [ООП. Первое знакомство. Понятие абстракции. Виды отношений между объектами](https://github.com/KFalcon2022/lessons/blob/master/lessons/oop/011/OOP.%20Introduction.md)
 
-**12.** [Принципы ООП. Инкапсуляция](https://telegra.ph/Inkapsulyaciya-Pakety-Modifikatory-dostupa-Gettery-i-Settery-11-22)
+**12.** [Принципы ООП. Инкапсуляция](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/012/Encapsulation.%20Packages.%20Access%20modifiers.%20Getters%20and%20setters.md)
 
-**13.** [Принципы ООП. Наследование](https://telegra.ph/Nasledovanie-Klyuchevoe-slovo-extends-i-ispolzovanie-protected-Klyuchevoe-slovo-super-Privedenie-ssylochnyh-tipov-11-23)
+**13.** [Принципы ООП. Наследование](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/013/Inheritance.%20Keywords%20extends%20and%20super.%20Access%20modifier%20protected.md)
 
-**14.** [Принципы ООП. Полиморфизм](https://telegra.ph/Polimorfizm-Pereopredelenie-metodov-Vidy-polimorfizma-i-svyazyvanie-11-25)
+**14.** [Принципы ООП. Полиморфизм](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/014/Polymorphism.%20Overriding%20method.%20Types%20of%20polymorphism.md)
 
 **159.** [SOLID и другие принципы ОО-дизайна](https://github.com/KFalcon2022/lessons/blob/master/lessons/oop/159/SOLID.%20Principles%20of%20Object%20Oriented%20Design.md)
 
 ## Collections Framework
 
-**36.** [Введение](https://telegra.ph/Collections-Framework-01-10)
+**36.** [Введение](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/036/Collections%20Framework.%20Introduction.md)
 
-**37.** [_Collection_. Список. _ArrayList_](https://telegra.ph/Collection-Spisok-ArrayList-01-12)
+**37.** [_Collection_. Список. _ArrayList_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/037/Collection.%20List.%20ArrayList.md)
 
-**40.** [_Queue_. Имплементации в Java](https://telegra.ph/Queue-i-variacii-na-temu-CHast-II-Implementacii-v-Java-01-19)
+**40.** [_Queue_. Имплементации в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/040/Queue.%20Implementations%20in%20Java.md)
 
-**41.** [_Set_. Первое знакомство](https://telegra.ph/Set-Pervoe-znakomstvo-01-25)
+**41.** [_Set_. Первое знакомство](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/041/Set.%20Introduction.md)
 
-**43.** [_Map_. Первое знакомство](https://telegra.ph/Map-Pervoe-znakomstvo-02-01)
+**43.** [_Map_. Первое знакомство](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/043/Map.%20Introduction.md)
 
-**44.** [_Map_ и _Set_. Внутреннее устройство реализаций](https://telegra.ph/Map-Vnutrennee-ustrojstvo-realizacij-02-04)
+**44.** [_Map_ и _Set_. Внутреннее устройство реализаций](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/044/Map%20and%20Set.%20Internal%20implementation.md)
 
-**51.** [_Iterable_ и _Iterator_](https://telegra.ph/Iterable-Iterator-i-Spliterator-02-25)
+**51.** [_Iterable_ и _Iterator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/051/Iterable%2C%20Iterator%20and%20Spliterator.md)
 
-**58.** [Функциональные интерфейсы в коллекциях](https://telegra.ph/Funkcionalnye-interfejsy-v-kollekciyah-Itogi-razdela-FP-03-22)
+**58.** [Функциональные интерфейсы в коллекциях](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/058/Functional%20interfaces%20in%20collections.md)
 
 ## Структуры данных и алгоритмы
 
@@ -131,7 +131,7 @@
 
 **50.** [Первое знакомство с Stream API. Функции высшего порядка. Монады](https://telegra.ph/Nemnogo-o-Stream-API-I-mnogo-o-smezhnoj-terminologii-02-24)
 
-**51.** [_Spliterator_](https://telegra.ph/Iterable-Iterator-i-Spliterator-02-25)
+**51.** [_Spliterator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/051/Iterable%2C%20Iterator%20and%20Spliterator.md)
 
 **52.** [Stream API. Способы создания Stream'а](https://telegra.ph/Stream-API-Sposoby-sozdaniya-Streama-02-26)
 
@@ -148,7 +148,7 @@
     и [Часть II](https://telegra.ph/Stream-API-collect-Collector-Collectors-CHast-II-03-17).
     [Практика](https://telegra.ph/Stream-API-collect-Collector-Collectors-Praktika-03-17)
 
-**58.** [Итоги раздела ФП](https://telegra.ph/Funkcionalnye-interfejsy-v-kollekciyah-Itogi-razdela-FP-03-22)
+**58.** [Итоги раздела ФП](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/058/Functional%20interfaces%20in%20collections.md)
 
 ## Многопоточность
 
@@ -364,7 +364,7 @@
 
 **9.** [Системы контроля версий. Git. Github](https://github.com/KFalcon2022/lessons/blob/master/lessons/vcs/009/VCS.%20Git.%20GitHub.md)
 
-**15.** [GitHub. Fork и Pull Request](https://telegra.ph/GitHub-Fork-i-Pull-Request-11-25)
+**15.** [GitHub. Fork и Pull Request](https://github.com/KFalcon2022/lessons/blob/master/lessons/vcs/015/GitHub.%20Fork%20and%20Pull%20Request.md)
 
 - Основные инструменты
 
@@ -486,9 +486,9 @@ _Будет дополнено_
 
 ## Темы вне основной классификации
 
-**27.** [Отладка кода. Debugger](https://telegra.ph/Otladka-koda-Debugger-12-09)
+**27.** [Отладка кода. Debugger](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/027/Debugging.%20Debugger.md)
 
-**35.** [Компиляция и интерпретация в Java](https://telegra.ph/Kompilyaciya-i-interpretaciya-v-Java-12-20)
+**35.** [Компиляция и интерпретация в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/035/Compilation%20and%20interpretation%20in%20Java.md)
 
 **69.** [Состав команды на проекте. Часть I](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/069/Team%20structure%20in%20project.%20Part%201.md)
 
