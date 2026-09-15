@@ -127,9 +127,9 @@
 
 **48.** [Функциональное программирование в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/048/Functional%20Programming%20in%20Java.md)
 
-**49.** [Класс _Optional_](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/049/Optional%20Class.%20Why%20a%20Good%20Thing%20Isn%27t%20Called%20a%20Monad.md)
+**49.** [Класс _Optional_](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/049/Optional.md)
 
-**50.** [Первое знакомство с Stream API. Функции высшего порядка. Монады](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/050/Stream%20API.%20Higher-Order%20Functions.%20Monads.md)
+**50.** [Введение в Stream API и функции высшего порядка](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/050/Stream%20API%20introduction.%20Higher-Order%20Functions.md)
 
 **51.** [_Spliterator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/051/Iterable%2C%20Iterator%20and%20Spliterator.md)
 
