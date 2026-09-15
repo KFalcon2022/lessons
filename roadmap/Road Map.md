@@ -51,7 +51,7 @@
 
 **19.** [Методы класса _Object_](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/019/Object%20methods.md)
 
-**20.** [Исключения](https://telegra.ph/Isklyucheniya-12-01)
+**20.** [Исключения](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/020/Exceptions.md)
 
 **21.** [Неизменяемые объекты](https://github.com/KFalcon2022/lessons/blob/master/lessons/java-core/021/Immutable%20objects.md)
 
