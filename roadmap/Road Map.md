@@ -107,88 +107,85 @@
 
 **44.** [_Map_ и _Set_. Внутреннее устройство реализаций](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/044/Map%20and%20Set.%20Internal%20implementation.md)
 
-**51.** [_Iterable_ и _Iterator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/051/Iterable%2C%20Iterator%20and%20Spliterator.md)
+**51.** [_Iterable_, _Iterator_ и _Spliterator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/051/Iterable%2C%20Iterator%20and%20Spliterator.md)
 
 **58.** [Функциональные интерфейсы в коллекциях](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/058/Functional%20interfaces%20in%20collections.md)
 
 ## Структуры данных и алгоритмы
 
-**39.** [Связные списки и очереди](https://telegra.ph/Queue-i-variacii-na-temu-CHast-I-Struktury-dannyh-01-17)
+**39.** [Связные списки и очереди](https://github.com/KFalcon2022/lessons/blob/master/lessons/data-structures-and-algorithms/039/Linked%20Lists%20and%20Queues.%20Data%20Structures.md)
 
-**42.** [Структура данных Дерево](https://telegra.ph/Struktura-dannyh-Derevo-01-28)
+**42.** [Структура данных Дерево](https://github.com/KFalcon2022/lessons/blob/master/lessons/data-structures-and-algorithms/042/Tree%20Data%20Structure.md)
 
-**45.** [Сложность алгоритмов](https://telegra.ph/Slozhnost-algoritmov-Pervoe-znakomstvo-02-08)
+**45.** [Сложность алгоритмов](https://github.com/KFalcon2022/lessons/blob/master/lessons/data-structures-and-algorithms/045/Algorithm%20Complexity.%20First%20Look.md)
 
 ## Функциональное программирование в Java
 
-**46.** [Функциональные интерфейсы и лямбда-выражения](https://telegra.ph/Funkcionalnye-interfejsy-i-lyambda-vyrazheniya-02-10)
+**46.** [Функциональные интерфейсы и лямбда-выражения](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/046/Functional%20Interfaces%20and%20Lambda%20Expressions.md)
 
-**47.** [Ссылка на метод](https://telegra.ph/Ssylka-na-metod-02-12)
+**47.** [Ссылка на метод](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/047/Method%20Reference.md)
 
-**48.** [Функциональное программирование в Java](https://telegra.ph/Funkcionalnoe-programmirovanie-v-Java-02-14)
+**48.** [Функциональное программирование в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/048/Functional%20Programming%20in%20Java.md)
 
-**49.** [Класс _Optional_](https://telegra.ph/Klass-Optional-ili-horoshuyu-veshch-monadoj-ne-nazovut-02-18)
+**49.** [Класс _Optional_](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/049/Optional%20Class.%20Why%20a%20Good%20Thing%20Isn%27t%20Called%20a%20Monad.md)
 
-**50.** [Первое знакомство с Stream API. Функции высшего порядка. Монады](https://telegra.ph/Nemnogo-o-Stream-API-I-mnogo-o-smezhnoj-terminologii-02-24)
+**50.** [Первое знакомство с Stream API. Функции высшего порядка. Монады](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/050/Stream%20API.%20Higher-Order%20Functions.%20Monads.md)
 
 **51.** [_Spliterator_](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/051/Iterable%2C%20Iterator%20and%20Spliterator.md)
 
-**52.** [Stream API. Способы создания Stream'а](https://telegra.ph/Stream-API-Sposoby-sozdaniya-Streama-02-26)
+**52.** [Stream API. Способы создания Stream'а](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/052/Stream%20API.%20Ways%20to%20Create%20a%20Stream.md)
 
-**53.** [Stream API. Виды операций](https://telegra.ph/Stream-Vidy-operacij-03-02)
+**53.** [Stream API. Виды операций](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/053/Stream.%20Types%20of%20Operations.md)
 
-**54.** [Stream API. Промежуточные операции](https://telegra.ph/Stream-API-Promezhutochnye-operacii-03-04)
+**54.** [Stream API. Промежуточные операции](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/054/Stream%20API.%20Intermediate%20Operations.md)
 
-**55.** [Stream API. Терминальные операции](https://telegra.ph/Stream-API-Terminalnye-operacii-03-09)
+**55.** [Stream API. Терминальные операции](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/055/Stream%20API.%20Terminal%20Operations.md)
 
-**56.** [Stream API. Stream’ы примитивов](https://telegra.ph/Stream-API-Streamy-primitivov-03-11)
+**56.** [Stream API. Stream’ы примитивов](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/056/Stream%20API.%20Primitive%20Streams.md)
 
-**57.** Stream API. _collect()_, _Collector_, _Collectors_.
-    [Часть I](https://telegra.ph/Stream-API-collect-Collector-Collectors-03-17)
-    и [Часть II](https://telegra.ph/Stream-API-collect-Collector-Collectors-CHast-II-03-17).
-    [Практика](https://telegra.ph/Stream-API-collect-Collector-Collectors-Praktika-03-17)
+**57.** [Stream API. _collect()_, _Collector_, _Collectors_](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/057/Stream%20API.%20collect%28%29%2C%20Collector%2C%20Collectors.md)
 
 **58.** [Итоги раздела ФП](https://github.com/KFalcon2022/lessons/blob/master/lessons/collections-framework/058/Functional%20interfaces%20in%20collections.md)
 
 ## Многопоточность
 
-**59.** [Введение](https://telegra.ph/Mnogopotochnost-Vvedenie-03-25)
+**59.** [Введение](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/059/Multithreading.%20Introduction.md)
 
-**60.** [Класс _Thread_. Способы создания потока](https://telegra.ph/Mnogopotochnost-Klass-Thread-Sposoby-sozdaniya-potoka-03-25)
+**60.** [Класс _Thread_. Способы создания потока](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/060/Thread%20Class.%20Ways%20to%20Create%20a%20Thread.md)
 
-**61.** [Синхронизация потоков. Понятие монитора. Ключевое слово _synchronized_](https://telegra.ph/Mnogopotochnost-Sinhronizaciya-potokov-Ponyatie-monitora-Klyuchevoe-slovo-synchronized-03-30)
+**61.** [Синхронизация потоков. Понятие монитора. Ключевое слово _synchronized_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/061/Thread%20Synchronization.%20Monitor.%20Keyword%20synchronized.md)
 
-**62.** [Методы _Object_ для многопоточности](https://telegra.ph/Metody-Object-dlya-mnogopotochnosti-04-01)
+**62.** [Методы _Object_ для многопоточности](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/062/Object%20Methods%20for%20Multithreading.md)
 
-**63.** [Знакомство с JMM. Ключевое слово _volatile_](https://telegra.ph/JMM-Klyuchevoe-slovo-volatile-04-07)
+**63.** [Знакомство с JMM. Ключевое слово _volatile_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/063/JMM%20and%20the%20volatile%20Keyword.md)
 
-**64.** [Методы класса _Thread_](https://telegra.ph/Mnogopotochnost-Metody-klassa-Thread-04-08)
+**64.** [Методы класса _Thread_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/064/Multithreading.%20Thread%20Class%20Methods.md)
 
-**65.** [_java.util.concurrent_. Atomic-типы](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Atomic-tipy-04-09)
+**65.** [_java.util.concurrent_. Atomic-типы](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/065/Multithreading.%20java.util.concurrent.%20Atomic%20Types.md)
 
-**66.** [_java.util.concurrent_. Механизм _Lock_. _ReentrantLock_](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Mehanizm-Lock-CHast-I-04-14)
+**66.** [_java.util.concurrent_. Механизм _Lock_. _ReentrantLock_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/066/Multithreading.%20java.util.concurrent.%20Lock.%20Part%20I.md)
 
-**67.** [java.util.concurrent. Механизм Lock. _ReentrantReadWriteLock_. _StampedLock_. Сравнение с _synchronized_](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Mehanizm-Lock-CHast-II-04-15)
+**67.** [java.util.concurrent. Механизм Lock. _ReentrantReadWriteLock_. _StampedLock_. Сравнение с _synchronized_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/067/Lock%20Mechanism.%20Part%20II.md)
 
-**68.** [_java.util.concurrent_. Механизм Семафор](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Mehanizm-Semafor-04-20)
+**68.** [_java.util.concurrent_. Механизм Семафор](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/068/Semaphore%20Mechanism.md)
 
-**71.** [_java.util.concurrent_. Потокобезопасные коллекции](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Potokobezopasnye-kollekcii-04-29)
+**71.** [_java.util.concurrent_. Потокобезопасные коллекции](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/071/Concurrent%20Collections.md)
 
-**72.** [_java.util.concurrent_. Блокирующие и неблокирующие очереди](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Blokiruyushchie-i-neblokiruyushchie-ocheredi-05-07)
+**72.** [_java.util.concurrent_. Блокирующие и неблокирующие очереди](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/072/Multithreading.%20java.util.concurrent.%20Blocking%20and%20Non-blocking%20Queues.md)
 
-**73.** [_java.util.concurrent_. Барьер. _CyclicBarrier_. Знакомство с _Phaser_](https://telegra.ph/javautilconcurrent-Barer-CyclicBarrier-Znakomstvo-s-Phaser-05-08)
+**73.** [_java.util.concurrent_. Барьер. _CyclicBarrier_. Знакомство с _Phaser_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/073/Multithreading.%20java.util.concurrent.%20Barrier.%20CyclicBarrier.%20Phaser.md)
 
-**74.** [_java.util.concurrent_. _ExecutorService_ и _Thread Pool_](https://telegra.ph/Mnogopotochnost-javautilconcurrent-ExecutorService-i-ThreadPool-05-09)
+**74.** [_java.util.concurrent_. _ExecutorService_ и _Thread Pool_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/074/Multithreading.%20java.util.concurrent.%20ExecutorService%20and%20Thread%20Pool.md)
 
-**75.** [_java.util.concurrent_. Реализации _Thread Pool_ и при чем тут Stream API](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Realizacii-Thread-Pool-i-pri-chem-tut-Stream-API-05-13)
+**75.** [_java.util.concurrent_. Реализации _Thread Pool_ и при чем тут Stream API](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/075/Multithreading.%20java.util.concurrent.%20Thread%20Pool%20Implementations.md)
 
-**77.** [_java.util.concurrent_. _Future_. _CompletableFuture_](https://telegra.ph/Mnogopotochnost-javautilconcurrent-Future-CompletableFuture-05-20)
+**77.** [_java.util.concurrent_. _Future_. _CompletableFuture_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/077/Multithreading.%20java.util.concurrent.%20Future.%20CompletableFuture.md)
 
-**76.** [Проблемы многопоточности](https://telegra.ph/Mnogopotochnost-Problemy-mnogopotochnosti-05-14)
+**76.** [Проблемы многопоточности](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/076/Multithreading.%20Problems%20of%20Multithreading.md)
 
 **177.** [_ThreadLocal_](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/177/ThreadLocal.md)
 
-**78.** [Что дальше?](https://telegra.ph/Mnogopotochnost-CHto-dalshe-05-20)
+**78.** [Что дальше?](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/078/Multithreading.%20What's%20next.md)
 
 ## Базы данных и основы SQL
 
@@ -262,15 +259,15 @@
 
 ## Внешние библиотеки и знакомство с системами сборок
 
-**113.** [Внешние библиотеки. Фреймворки](https://telegra.ph/Vneshnie-biblioteki-Frejmvorki-10-14)
+**113.** [Внешние библиотеки. Фреймворки](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/113/External%20Libraries.%20Frameworks.md)
 
-**114.** [Logger. Подключение Logger'а](https://telegra.ph/Logger-Podklyuchenie-Loggera-10-14)
+**114.** [Logger. Подключение Logger'а](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/114/Logger.%20Connecting%20a%20Logger.md)
 
-**115.** [Системы сборок. Первое знакомство](https://telegra.ph/Sistemy-sborok-Pervoe-znakomstvo-10-28)
+**115.** [Системы сборок. Первое знакомство](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/115/Build%20Systems.%20First%20Introduction.md)
 
-**116.** [Maven. Структура проекта. POM](https://telegra.ph/Maven-Struktura-proekta-POM-10-28)
+**116.** [Maven. Структура проекта. POM](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/116/Maven.%20Project%20Structure.%20POM.md)
 
-**117.** [Maven. Жизненный цикл. Плагины](https://telegra.ph/Maven-ZHiznennyj-cikl-Plaginy-11-11)
+**117.** [Maven. Жизненный цикл. Плагины](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/117/Maven.%20Lifecycle.%20Plugins.md)
 
 **118.** [Maven. Понятие артефакта. Работа с зависимостями](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/118/Maven.%20Artifact.%20Dependencies.md)
 
