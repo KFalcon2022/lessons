@@ -75,6 +75,9 @@
 
 Также реализуйте сортировку коллекции машин в прямом и обратном порядке.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson38_comparing)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

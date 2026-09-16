@@ -153,6 +153,9 @@ insert into passenger values
 Добавьте семью из двух родителей и двух детей. Глава семейства как раз купил билеты на всю семью (вот прям только
 что, прямо сейчас). Обычно они вылетают из Ростова.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_84_insert)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

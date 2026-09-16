@@ -212,6 +212,9 @@ private void showSum(int[][] arr) {
 
 Реализуйте метод подсчета числа четных элементов в трехмерном массиве. Распараллельте данный процесс.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson73_barrier)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

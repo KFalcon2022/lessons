@@ -149,6 +149,9 @@ Summary: 90 years, 5 months, 22 days, 17 hours 24 minutes 4 seconds
 Примечание: данная задача не предполагает реализацию через наследников интерфейса `TemporalAmount`. Однако вы можете
 использовать их для альтернативного решения.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson34_date_time)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

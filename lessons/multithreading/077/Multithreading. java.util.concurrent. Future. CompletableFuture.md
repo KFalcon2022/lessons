@@ -261,6 +261,9 @@ CompletableFuture.allOf(
 
 Посмотрите, в каком потоке будет выполнена каждая из операций.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson77_future)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

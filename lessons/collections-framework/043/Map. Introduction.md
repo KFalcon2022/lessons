@@ -194,6 +194,9 @@ HashMap»):
 Реализуйте [задачу из урока 19](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson19_object_methods),
 используя `Map`. Реализацию выберите исходя из особенностей исходной задачи.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson43_map)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -137,6 +137,9 @@ ended queue, **дек**) является частным случаем двус
 
 Реализуйте одностороннюю очередь на базе двусвязного списка из Задачи 3.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson39_queue1)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

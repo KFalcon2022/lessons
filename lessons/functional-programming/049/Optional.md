@@ -380,6 +380,9 @@ _«Это %тип животного%, он (она) говорит %резул�
 
 Подсказка: используйте `or()`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson49_optional)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

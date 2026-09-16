@@ -153,6 +153,9 @@ select * from passenger where (first_name = 'Ivan' and birth_date < '2000-01-01'
 Получите все записи, где фамилия равна «`Petrov`» и имя равно «`Petr`». Добавьте к выборке все записи, для которых
 дата рождения меньше, чем дата последней покупки билета.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_86_where)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

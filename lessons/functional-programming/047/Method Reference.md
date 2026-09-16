@@ -378,6 +378,9 @@ IDEA предложит.
 все реализуемые фильтры через method reference'ы. Рекомендую вынести функциональность формирования фильтров в
 отдельный сервис, если это не было сделано ранее.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson47_method_reference)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

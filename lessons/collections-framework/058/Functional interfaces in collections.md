@@ -317,6 +317,9 @@ Baeldung, поэтому лучше сразу его:
 реализуйте метод, принимающий на вход список сотрудников и возвращающий суммарный возраст обладателей каждого имени.
 Не используйте `Map.merge()`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson58_collection_lamda_param)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

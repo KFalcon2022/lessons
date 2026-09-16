@@ -272,6 +272,9 @@ limit 1 offset 0;
 
 Найдите наиболее популярный аэропорт прибытия для каждой из фамилий пассажиров.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_97_join)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -263,6 +263,9 @@ cars.sort(Comparator.comparing(o -> o.getIdentifier().getNumber()));
 Также реализуйте интерактивное меню в рамках консоли, позволяющее производить несколько поисков в рамках одного
 запуска программы. Предусмотрите возможность завершения программы с помощью пользовательского ввода.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson46_lambda)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

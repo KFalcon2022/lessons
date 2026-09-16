@@ -202,6 +202,9 @@ alter table t1 add constraint example_foreign_key foreign key (b, c) references 
 Добавьте в рамках тестовой БД необходимые `UNIQUE` и `NOT NULL` ограничения сущностям в соответствии с их ролью. При
 необходимости можете использовать и иные виды констрэинтов.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_102_constraint)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

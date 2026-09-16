@@ -243,6 +243,9 @@ select birth_date, id, id from passenger;
 
 Массивы в SQL нумеруются с 1. Синтаксис для получения элементов массива не отличается от Java.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_85_select)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -235,6 +235,9 @@ API и, что важнее, позволит понять суть класси
 3. Сплитератор на базе итератора можно создать с помощью методов класса `Spliterators`. `Stream` на базе сплитератора
    – с помощью методов класса `StreamSupport`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson51_iterator_spliterator)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

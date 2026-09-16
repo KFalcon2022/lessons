@@ -110,6 +110,9 @@ male                boolean         default true,
 Добавьте таблицу `user`. Она должна обеспечивать информацию об учетной записи в нашей условной информационной
 системе. Полагаю, в нее стоит добавить `id`, `username` и пароль, остальные колонки - на ваш вкус.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_99_create_table)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -122,6 +122,9 @@ drop index ix_passenger_last_purchase_hash;
 
 Везде ли типом индекса стоит выбрать `BTREE`? Требуются ли составные индексы в рамках этой задачи?
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_105_index)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

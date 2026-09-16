@@ -362,6 +362,9 @@ System.out.println("Hi from main thread!");
 
 Подсказка: [ссылка](https://pastebin.com/w5dShQr0).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson64_thread_methods)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

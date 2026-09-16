@@ -150,6 +150,9 @@ public void doSth() {
 - вариант 2: внутренние классы;
 - вариант 3: статические вложенные классы.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson25_nested_classes)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

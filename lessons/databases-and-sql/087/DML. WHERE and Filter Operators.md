@@ -249,6 +249,9 @@ not ('1989-07-02'::date, '1990-07-02') overlaps ('1990-07-02', '1993-07-02')
 
 Найдите всех пассажиров, которые застали Вторую мировую войну (_1 сентября 1939_ – _2 сентября 1945_).
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_87_where_clause_operators)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

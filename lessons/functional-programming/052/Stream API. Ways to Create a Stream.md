@@ -212,6 +212,9 @@ Stream.iterate(0, i -> i < arr.length, i -> ++i)
   [ссылка](https://pastebin.com/rJ3uRWC1);
 - Вариант 2 (*): в `main()` `Stream` должен быть лишь 1. Требует использования `flatMap()`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson52_stream_creation)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

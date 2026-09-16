@@ -95,6 +95,9 @@ P.S. Ожидается собственный велосипед, а не ис�
 
 P.S. Все еще ожидается велосипед.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson60_thread)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

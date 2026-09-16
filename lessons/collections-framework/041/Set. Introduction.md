@@ -145,6 +145,9 @@ TreeSet): [ссылка](https://metanit.com/java/tutorial/5.5.php).
 Реализуйте [задачу 2 из урока 26](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson26_string_types/task2),
 используя `Set`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson41_set)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

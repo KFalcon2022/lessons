@@ -169,6 +169,9 @@ limit 3 offset 0;
 
 Получите только вторую и третью записи из предыдущего запроса.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_88_sorting_pagination)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

@@ -343,6 +343,9 @@ select sum_params(1, 2);
 Реализуйте примеры из раздела [Синтаксис для работы с функциями](#синтаксис-для-работы-с-функциями), используя SQL,
 вместо PL/pgSQL.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_110_function_procedure)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

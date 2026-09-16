@@ -116,6 +116,9 @@ regex: `split()`, `replaceAll()`, `matches()` и пр.
 способом. Например, одним из вариантов упрощения исходной задачи может стать избавление от лишних символов или их
 замена одним определенным через метод `replaceAll()` класса `String`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson30_regex)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

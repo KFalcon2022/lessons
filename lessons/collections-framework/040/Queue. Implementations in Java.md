@@ -154,6 +154,9 @@
 
 Также добавьте вывод сообщения в консоль о том, что задание (с указанием названия) добавлено.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/src/com/walking/lesson40_queue2)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

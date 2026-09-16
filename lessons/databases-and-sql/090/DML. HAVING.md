@@ -70,6 +70,9 @@ select count(*), male from passenger where last_purchase is not null group by ma
 пассажиров с заданной длиной имени меньше, чем два – игнорируйте их в результирующей выборке. Отсортируйте данные по
 количеству пассажиров.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_90_having)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

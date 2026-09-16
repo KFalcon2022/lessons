@@ -162,6 +162,9 @@ where lower(last_name) = 'ivanov'
 Смените имя всем пассажирам-женщинам с `Katerina` на `Ekaterina`. Записи с другим значением имени оставьте без
 изменений.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_92_insert_update)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

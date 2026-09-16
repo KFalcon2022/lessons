@@ -156,6 +156,9 @@ select distinct on (first_name, last_name) first_name, last_name from passenger;
 
 Верните список уникальных имен. Если имя носит и мужчина, и женщина - оно должно быть указано дважды.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_94_distinct)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

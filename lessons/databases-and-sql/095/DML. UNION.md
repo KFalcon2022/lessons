@@ -148,6 +148,9 @@ order by first_name, id limit 3 offset 0;
 Получите всю информацию о трех самых старых пассажирах, имеющих хотя бы один любимый аэропорт, из объединенных
 таблиц `passenger_female`, `passenger_male`.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_95_union)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens

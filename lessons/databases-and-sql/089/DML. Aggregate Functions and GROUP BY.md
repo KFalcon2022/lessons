@@ -116,6 +116,9 @@ select count(*), male from passenger where last_purchase is not null group by ma
 Верните в одном запросе: количество совершеннолетних пассажиров, наибольшее и наименьшее значение последней покупки.
 Сделайте группировку по полу.
 
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/practical-tasks/tree/master/resources/sql/lesson_89_aggregation_group_by)
+
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
 > Канал: https://t.me/ViamSupervadetVadens
