@@ -189,73 +189,73 @@
 
 ## Базы данных и основы SQL
 
-**79.** [Базы данных. SQL и NoSQL](https://telegra.ph/Bazy-dannyh-SQL-i-NoSQL-05-27)
+**79.** [Базы данных. SQL и NoSQL](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/079/Databases.%20SQL%20and%20NoSQL.md)
 
-**80.** [Установка postgres. PgAdmin и инструменты визуализации БД. Создание и удаление БД](https://telegra.ph/Ustanovka-PostgreSQL-PgAdmin-i-instrumenty-vizualizacii-BD-Sozdanie-i-udalenie-BD-05-30)
+**80.** [Установка postgres. PgAdmin и инструменты визуализации БД. Создание и удаление БД](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/080/PostgreSQL%20Installation.%20PgAdmin%20and%20Visualization%20Tools.md)
 
-**81.** [Схемы](https://telegra.ph/Relyacionnye-bazy-dannyh-Shemy-06-03)
+**81.** [Схемы](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/081/Relational%20Databases.%20Schemas.md)
 
-**82.** [Основные термины реляционных БД и что такое SQL (DDL, DML, etc.)](https://telegra.ph/Osnovnye-terminy-relyacionnyh-BD-i-chto-takoe-SQL-DDL-DML-etc-06-03)
+**82.** [Основные термины реляционных БД и что такое SQL (DDL, DML, etc.)](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/082/Relational%20DB%20Basic%20Terms%20and%20SQL.md)
 
-**83.** [DDL. Типы данных](https://telegra.ph/DDL-Tipy-dannyh-06-29)
+**83.** [DDL. Типы данных](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/083/DDL.%20Data%20Types.md)
 
-**84.** [DML. _INSERT_](https://telegra.ph/DML-INSERT-07-02)
+**84.** [DML. _INSERT_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/084/DML.%20INSERT.md)
 
-**85.** [DML. Команда _SELECT_](https://telegra.ph/DML-Komanda-SELECT-07-08)
+**85.** [DML. Команда _SELECT_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/085/DML.%20SELECT.md)
 
-**86.** [DML. Блок _WHERE_](https://telegra.ph/DML-Blok-WHERE-07-08)
+**86.** [DML. Блок _WHERE_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/086/DML.%20WHERE.md)
 
-**87.** [DML. Блок _WHERE_ и операторы фильтрации](https://telegra.ph/DML-Blok-WHERE-i-operatory-filtracii-07-09)
+**87.** [DML. Блок _WHERE_ и операторы фильтрации](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/087/DML.%20WHERE%20and%20Filter%20Operators.md)
 
-**88.** [DML. Сортировка и пагинация](https://telegra.ph/DML-Sortirovki-paginaciya-07-15)
+**88.** [DML. Сортировка и пагинация](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/088/DML.%20Sorting%20and%20Pagination.md)
 
-**89.** [DML. Агрегатные функции и _GROUP BY_](https://telegra.ph/DML-Agregatnye-funkcii-i-GROUP-BY-07-16)
+**89.** [DML. Агрегатные функции и _GROUP BY_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/089/DML.%20Aggregate%20Functions%20and%20GROUP%20BY.md)
 
-**90.** [DML. _HAVING_. _HAVING_ и _WHERE_](https://telegra.ph/DML-HAVING-HAVING-i-WHERE-07-16)
+**90.** [DML. _HAVING_. _HAVING_ и _WHERE_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/090/DML.%20HAVING.md)
 
-**91.** [DML. Подзапросы](https://telegra.ph/DML-Podzaprosy-07-22)
+**91.** [DML. Подзапросы](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/091/DML.%20Subqueries.md)
 
-**92.** [DML. _INSERT_ и _UPDATE_](https://telegra.ph/DML-INSERT-i-UPDATE-07-22)
+**92.** [DML. _INSERT_ и _UPDATE_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/092/DML.%20INSERT%20and%20UPDATE.md)
 
-**93.** [DML. _DELETE_ и _TRUNCATE_](https://telegra.ph/DML-DELETE-i-TRUNCATE-07-23)
+**93.** [DML. _DELETE_ и _TRUNCATE_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/093/DML.%20DELETE%20and%20TRUNCATE.md)
 
-**94.** [DML. _DISTINCT_ и _GROUP_ _BY_](https://telegra.ph/DML-DISTINCT-i-GROUP-BY-07-29)
+**94.** [DML. _DISTINCT_ и _GROUP_ _BY_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/094/DML.%20DISTINCT%20and%20GROUP%20BY.md)
 
-**95.** [DML_. UNION_](https://telegra.ph/DML-UNION-07-30)
+**95.** [DML_. UNION_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/095/DML.%20UNION.md)
 
-**96.** [Виды отношений в БД](https://telegra.ph/Vidy-otnoshenij-v-BD-08-05)
+**96.** [Виды отношений в БД](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/096/Relationship%20Types%20in%20DB.md)
 
-**97.** [DML. _JOIN_](https://telegra.ph/DML-JOIN-08-06)
+**97.** [DML. _JOIN_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/097/DML.%20JOIN.md)
 
-**98.** [DML. Common table expression. _WITH_](https://telegra.ph/DML-Common-table-expression-WITH-08-12)
+**98.** [DML. Common table expression. _WITH_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/098/DML.%20Common%20Table%20Expression.%20WITH.md)
 
-**99.** [DDL. _CREATE_. Создание таблиц](https://telegra.ph/DDL-CREATE-Sozdanie-tablic-08-12)
+**99.** [DDL. _CREATE_. Создание таблиц](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/099/DDL.%20CREATE.%20Creating%20Tables.md)
 
-**100.** [DDL. Изменение и удаление таблиц. ALTER. DROP. DEFAULT](https://telegra.ph/DDL-Izmenenie-i-udalenie-tablic-ALTER-DROP-DEFAULT-08-19)
+**100.** [DDL. Изменение и удаление таблиц. ALTER. DROP. DEFAULT](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/100/DDL.%20ALTER.%20DROP.%20DEFAULT.md)
 
-**101.** [DDL. Primary key и Foreign key. Каскадное удаление](https://telegra.ph/DDL-Primary-key-i-Foreign-key-Kaskadnoe-udalenie-08-19)
+**101.** [DDL. Primary key и Foreign key. Каскадное удаление](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/101/DDL.%20Primary%20Key%20and%20Foreign%20Key.md)
 
-**102.** [DDL. _CONSTRAINT_](https://telegra.ph/DDL-CONSTRAINT-08-26)
+**102.** [DDL. _CONSTRAINT_](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/102/DDL.%20CONSTRAINT.md)
 
-**103.** [DDL. Индексы. Введение, виды индексов](https://telegra.ph/DDL-Indeksy-Sostavnye-indeksy-Unikalnye-indeksy-08-27)
+**103.** [DDL. Индексы. Введение, виды индексов](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/103/DDL.%20Indexes.%20Introduction%20and%20Types.md)
 
-**105.** [DDL. Кластеризованные индексы. Синтаксис для работы с индексами](https://telegra.ph/DDL-Klasterizovannye-indeksy-Sintaksis-dlya-raboty-s-indeksami-09-02)
+**105.** [DDL. Кластеризованные индексы. Синтаксис для работы с индексами](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/105/DDL.%20Clustered%20Indexes.%20Index%20Syntax.md)
 
-**104.** [Нормализация и денормализация БД](https://telegra.ph/Normalizaciya-i-denormalizaciya-BD-09-02)
+**104.** [Нормализация и денормализация БД](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/104/Normalization%20and%20Denormalization.md)
 
-**106.** [Понятие VIEW. Какие бывают представления](https://telegra.ph/Ponyatie-View-Kakie-byvayut-predstavleniya-09-09)
+**106.** [Понятие VIEW. Какие бывают представления](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/106/VIEW.%20Types%20of%20Views.md)
 
-**107.** [TCL. Транзакции. ACID](https://telegra.ph/TCL-Tranzakcii-ACID-09-09)
+**107.** [TCL. Транзакции. ACID](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/107/TCL.%20Transactions.%20ACID.md)
 
-**108.** [TCL. Проблемы транзакций. Уровни изоляции](https://telegra.ph/TCL-Problemy-tranzakcij-Urovni-izolyacii-09-17)
+**108.** [TCL. Проблемы транзакций. Уровни изоляции](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/108/TCL.%20Transaction%20Problems.%20Isolation%20Levels.md)
 
-**109.** [Генераторы последовательностей. SEQUENCE](https://telegra.ph/Generatory-posledovatelnostej-SEQUENCE-09-17)
+**109.** [Генераторы последовательностей. SEQUENCE](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/109/Sequence%20Generators.%20SEQUENCE.md)
 
-**110.** [PL/pgSQL. Функции и процедуры](https://telegra.ph/PLpgSQL-Funkcii-i-procedury-09-30)
+**110.** [PL/pgSQL. Функции и процедуры](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/110/PLpgSQL.%20Functions%20and%20Procedures.md)
 
-**111.** [Триггеры](https://telegra.ph/Triggery-09-30)
+**111.** [Триггеры](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/111/Triggers.md)
 
-**112.** [Что дальше?](https://telegra.ph/CHto-dalshe-10-07-2)
+**112.** [Что дальше?](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/112/What's%20Next.md)
 
 ## Внешние библиотеки и знакомство с системами сборок
 
