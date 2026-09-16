@@ -81,6 +81,8 @@ inner join ticket t on p.id = t.passenger_id;
 
 Таким образом, в выборку попадет только пересекающееся подмножество:
 
+![img.png](./innerJoin.png)
+
 В силу того, что `INNER` не является обязательным модификатором, можно считать `INNER JOIN` - JOIN'ом по умолчанию.
 
 ## LEFT OUTER JOIN
@@ -110,6 +112,8 @@ left join ticket t on p.id = t.passenger_id;
 
 Визуализация:
 
+![img.png](./leftJoin.png)
+
 ## RIGHT OUTER JOIN
 
 Данный вид JOIN'а зеркален предыдущему (`OUTER`, опять же, опционален):
@@ -138,6 +142,8 @@ left join passenger p on p.id = t.passenger_id;
 > строки из `T2`.
 
 Визуализация:
+
+![img.png](./rightJoin.png)
 
 ## FULL OUTER JOIN
 
@@ -174,6 +180,8 @@ right join ticket t on p.id = t.passenger_id;
 > вставляются `NULL`.
 
 Визуализация:
+
+![img.png](./fullJoin.png)
 
 ## CROSS JOIN
 
@@ -246,6 +254,8 @@ limit 1 offset 0;
 
 Также прилагаю картинку с визуализацией видов JOIN'ов (и, бонусом `UNION`). Она не идеальна, но может выступить
 небольшой шпаргалкой:
+
+![img.png](./joinTypes.png)
 
 #### С теорией на сегодня все!
 
