@@ -246,7 +246,7 @@ CompletableFuture.allOf(
 
 ## Задача 1
 
-Реализуйте [Задачу 2 урока 73](https://telegra.ph/javautilconcurrent-Barer-CyclicBarrier-Znakomstvo-s-Phaser-05-08#%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2).
+Реализуйте [Задачу 2 урока 73](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/073/Multithreading.%20java.util.concurrent.%20Barrier.%20CyclicBarrier.%20Phaser.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2).
 Не используйте барьер.
 
 ## Задача 2

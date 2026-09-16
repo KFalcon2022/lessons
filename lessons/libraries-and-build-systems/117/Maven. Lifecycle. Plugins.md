@@ -307,7 +307,7 @@ mvn clean compile exec:java
 в вакууме.
 
 В рамках закрепления материала предлагаю попытаться доработать [пример](https://github.com/KFalcon2022/maven-sample)
-из предыдущего [урока](https://telegra.ph/Maven-Struktura-proekta-POM-10-28): добавить `exec:java` в фазу `install`,
+из предыдущего [урока](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/116/Maven.%20Project%20Structure.%20POM.md): добавить `exec:java` в фазу `install`,
 обеспечив автоматический запуск приложения при добавлении артефакта в локальный репозиторий.
 
 ![img.png](../../../commonmedia/justTheoryFooter.png)

@@ -203,7 +203,7 @@ map.forEach((k, v) -> System.out.print(k + v + " ")); // 1aa
 #### V merge(K key, V value, BiFunction<V, V, V> remappingFunction)
 
 Данный метод был упомянут при разборе `Collector`'а `toMap()`
-([ссылка](https://telegra.ph/Stream-API-collect-Collector-Collectors-03-17#toMap())).
+([ссылка](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/057/Stream%20API.%20collect%28%29%2C%20Collector%2C%20Collectors.md#tomap)).
 
 Суть метода сводится к тому, чтобы объединить два значения по одному ключу.
 
@@ -303,17 +303,17 @@ Baeldung, поэтому лучше сразу его:
 
 ## Задача 1
 
-Используя классы из практики к [уроку 57](https://telegra.ph/Stream-API-collect-Collector-Collectors-Praktika-03-17),
+Используя классы из практики к [уроку 57](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/057/Stream%20API.%20collect%28%29%2C%20Collector%2C%20Collectors.md#%D0%BE%D0%B1%D1%89%D0%B0%D1%8F-%D0%B2%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B2%D1%81%D0%B5%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87),
 реализуйте метод, принимающий на вход список сотрудников и возвращающий самого старшего обладателя каждого имени.
 
 ## Задача 2
 
-Используя классы из практики к [уроку 57](https://telegra.ph/Stream-API-collect-Collector-Collectors-Praktika-03-17),
+Используя классы из практики к [уроку 57](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/057/Stream%20API.%20collect%28%29%2C%20Collector%2C%20Collectors.md#%D0%BE%D0%B1%D1%89%D0%B0%D1%8F-%D0%B2%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B2%D1%81%D0%B5%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87),
 реализуйте метод, принимающий на вход список сотрудников и возвращающий список обладателей каждого имени.
 
 ## Задача 3
 
-Используя классы из практики к [уроку 57](https://telegra.ph/Stream-API-collect-Collector-Collectors-Praktika-03-17),
+Используя классы из практики к [уроку 57](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/057/Stream%20API.%20collect%28%29%2C%20Collector%2C%20Collectors.md#%D0%BE%D0%B1%D1%89%D0%B0%D1%8F-%D0%B2%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B2%D1%81%D0%B5%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87),
 реализуйте метод, принимающий на вход список сотрудников и возвращающий суммарный возраст обладателей каждого имени.
 Не используйте `Map.merge()`.
 

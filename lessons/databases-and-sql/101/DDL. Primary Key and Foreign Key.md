@@ -263,7 +263,7 @@ create table t4 (
 
 ## Задача
 
-Для таблиц, созданных в рамках практики к [Уроку 99](https://telegra.ph/DDL-CREATE-Sozdanie-tablic-08-12) добавьте
+Для таблиц, созданных в рамках практики к [Уроку 99](https://github.com/KFalcon2022/lessons/blob/master/lessons/databases-and-sql/099/DDL.%20CREATE.%20Creating%20Tables.md) добавьте
 PK и FK. Также добавьте их для остальных таблиц в рамках тестовой БД. Включая `passenger` и `ticket`.
 
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)

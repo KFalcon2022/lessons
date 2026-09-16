@@ -55,7 +55,7 @@ generic'и, гибко подходить к преобразованию стр
 ## Методы-источники
 
 Здесь для нас нет ничего нового: мы познакомились с методами `range()` и `rangeClosed()` у `IntStream` и
-`LongStream` в рамках урока «Stream API. Способы создания Stream'а»: [ссылка](https://telegra.ph/Stream-API-Sposoby-sozdaniya-Streama-02-26).
+`LongStream` в рамках урока «Stream API. Способы создания Stream'а»: [ссылка](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/052/Stream%20API.%20Ways%20to%20Create%20a%20Stream.md).
 
 ## Промежуточные операции
 

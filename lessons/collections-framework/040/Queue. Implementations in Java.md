@@ -135,7 +135,7 @@
 (характерным только для `Queue`/`Deque`). Но обязательно разобрать сравнительный анализ `ArrayList` и `LinkedList`.
 
 Этого будет достаточно, при условии, что вы понимаете устройство структур данных вне контекста Collections Framework
-(по сути, содержание [предыдущего урока](https://telegra.ph/Queue-i-variacii-na-temu-CHast-I-Struktury-dannyh-01-17)).
+(по сути, содержание [предыдущего урока](https://github.com/KFalcon2022/lessons/blob/master/lessons/data-structures-and-algorithms/039/Linked%20Lists%20and%20Queues.%20Data%20Structures.md)).
 По крайней мере, за пределами многопоточной разработки.
 
 #### С теорией на сегодня все!

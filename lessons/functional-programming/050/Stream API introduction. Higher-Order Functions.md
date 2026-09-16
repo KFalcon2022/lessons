@@ -12,7 +12,7 @@ Java-разработке теме – Stream API.
 одного типа.
 
 Пример использования Stream API мы рассматривали в
-[уроке 48](https://telegra.ph/Funkcionalnoe-programmirovanie-v-Java-02-14).
+[уроке 48](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/048/Functional%20Programming%20in%20Java.md).
 
 В рамках ближайших уроков мы убедимся, что функциональность `Stream`'ов намного шире, чем функциональность
 `Optional`. Пока же ограничимся тем, что внешне они очень похожи: выглядят как цепочки функциональных вызовов,
@@ -49,7 +49,7 @@ Java-разработке теме – Stream API.
 ## Функции высшего порядка
 
 Думаю, вы обратили внимание на несколько непривычный способ обработки данных с помощью `Optional` и `Stream`. Для
-наглядности, возьмем пример из [урока 48](https://telegra.ph/Funkcionalnoe-programmirovanie-v-Java-02-14):
+наглядности, возьмем пример из [урока 48](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/048/Functional%20Programming%20in%20Java.md):
 
 ```java
 return company.getDepartments()
@@ -105,9 +105,9 @@ Function<Department, List<Employee>> getEmployees() {
 обработки каких-то данных).
 
 Физическую часть мы постарались разобрать в уроках о
-[лямбда-выражениях](https://telegra.ph/Funkcionalnye-interfejsy-i-lyambda-vyrazheniya-02-10) и
-[method reference'ах](https://telegra.ph/Ssylka-na-metod-02-12). А для описания абстракции познакомимся с термином
-**функция высшего порядка**.
+[лямбда-выражениях](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/046/Functional%20Interfaces%20and%20Lambda%20Expressions.md) и
+[method reference'ах](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/047/Method%20Reference.md).
+А для описания абстракции познакомимся с термином **функция высшего порядка**.
 
 **Функция высшего порядка** – функция (в контексте Java – метод), принимающая в качестве параметра другие функции
 и/или возвращающая другую функцию в качестве результата.

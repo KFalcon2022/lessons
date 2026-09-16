@@ -216,7 +216,7 @@ drop database test_db;
 
 Вы удалили БД, вы великолепны!
 
-Как видите, на данном этапе нет ничего сложного. По сути, сегодня был аналог [Урока 0](https://telegra.ph/Nastrojka-okruzheniya-11-09-2),
+Как видите, на данном этапе нет ничего сложного. По сути, сегодня был аналог [Урока 0](https://github.com/KFalcon2022/lessons/blob/master/lessons/environment/0/Set%20up%20environment.md),
 только для БД:)
 
 #### На сегодня все!

@@ -374,7 +374,7 @@ IDEA предложит.
 
 ## Задача 3
 
-Реализуйте Задачу 3 из [урока 46](https://telegra.ph/Funkcionalnye-interfejsy-i-lyambda-vyrazheniya-02-10), описав
+Реализуйте Задачу 3 из [урока 46](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/046/Functional%20Interfaces%20and%20Lambda%20Expressions.md), описав
 все реализуемые фильтры через method reference'ы. Рекомендую вынести функциональность формирования фильтров в
 отдельный сервис, если это не было сделано ранее.
 

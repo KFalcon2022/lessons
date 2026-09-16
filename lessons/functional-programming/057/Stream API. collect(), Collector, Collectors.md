@@ -749,7 +749,7 @@ Metanit в данном разделе дает более поверхност�
 минимизировать акцент на доменной области.
 
 За основу предлагаю взять классы, описанные в одном из предыдущих уроков
-([Функциональное программирование в Java](https://telegra.ph/Funkcionalnoe-programmirovanie-v-Java-02-14)) и немного
+([Функциональное программирование в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/functional-programming/048/Functional%20Programming%20in%20Java.md)) и немного
 их доработать.
 
 ```java

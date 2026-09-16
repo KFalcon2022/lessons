@@ -224,7 +224,7 @@ readingThread5.start();
 ## Задача 1
 
 Реализуйте
-[Задачу 1 из урока 62](https://telegra.ph/Metody-Object-dlya-mnogopotochnosti-04-01#%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1:)
+[Задачу 1 из урока 62](https://github.com/KFalcon2022/lessons/blob/master/lessons/multithreading/062/Object%20Methods%20for%20Multithreading.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1)
 с использованием механизма `Condition`.
 
 ## Задача 2
