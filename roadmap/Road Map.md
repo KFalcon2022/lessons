@@ -447,7 +447,7 @@
 
 **199.** [Spring MVC. Обработка ошибок](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/199/Spring%20MVC.%20Exception%20handling.md)
 
-- Spring MVC. Тонкая настройка
+**200.** [Spring MVC. Тонкая настройка](https://github.com/KFalcon2022/lessons/blob/master/lessons/spring-framework/200/Spring%20MVC.%20Fine-tuning.md)
 
 ### Spring JDBC
 
